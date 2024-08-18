@@ -1,0 +1,24 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:enchanted_book{StoredEnchantments: [{id: \"minecraft:soul_speed\", lvl: 2s}], display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1.09%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:iron_boots{Enchantments: [{id: \"minecraft:soul_speed\", lvl: 2s}], display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1.74%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:potion{Potion: \"minecraft:fire_resistance\", display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1.74%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:splash_potion{Potion: \"minecraft:fire_resistance\", display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1.74%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:potion{Potion: \"minecraft:water\", display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 2.18%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:iron_nugget{display: {Lore: ['{\"text\": \"x10-36\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 2.18%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:ender_pearl{display: {Lore: ['{\"text\": \"x2-4\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 2.18%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:string{display: {Lore: ['{\"text\": \"x3-9\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 4.36%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:quartz{display: {Lore: ['{\"text\": \"x5-12\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 4.36%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:obsidian{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:crying_obsidian{display: {Lore: ['{\"text\": \"x1-3\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:fire_charge{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:leather{display: {Lore: ['{\"text\": \"x2-4\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:soul_sand{display: {Lore: ['{\"text\": \"x2-8\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:nether_brick{display: {Lore: ['{\"text\": \"x2-8\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:spectral_arrow{display: {Lore: ['{\"text\": \"x6-12\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:gravel{display: {Lore: ['{\"text\": \"x8-16\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:blackstone{display: {Lore: ['{\"text\": \"x8-16\", \"color\": \"gray\", \"italic\": false}', '[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8.71%\", \"color\": \"gold\", \"italic\": false}]']}}"
+  ],
+  "text": "emi.info.piglin_bartering"
+}

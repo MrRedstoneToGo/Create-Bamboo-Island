@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/limestone",
+  "criteria": {
+    "zinc_nugget": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:zinc_nugget"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.zinc_nugget.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.zinc_nugget.title"
+    }
+  },
+  "requirements": [
+    ["zinc_nugget"]
+  ],
+  "sends_telemetry_event": true
+}

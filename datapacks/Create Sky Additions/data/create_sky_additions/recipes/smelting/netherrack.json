@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "result": "minecraft:netherrack",
+  "experience": 0.0,
+  "cookingtime": 600
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/chromatic_compound",
+  "criteria": {
+    "end_portal_frame": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create_sky_additions:crafting/end_portal_frame"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.end_portal_frame.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.end_portal_frame.title"
+    }
+  },
+  "requirements": [
+    ["end_portal_frame"]
+  ],
+  "sends_telemetry_event": true
+}

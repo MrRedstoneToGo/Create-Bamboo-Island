@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:tuff"
+  },
+  "result": "create:crimsite",
+  "experience": 0.0,
+  "cookingtime": 600
+}

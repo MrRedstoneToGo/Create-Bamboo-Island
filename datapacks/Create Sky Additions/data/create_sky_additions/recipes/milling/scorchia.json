@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:scorchia"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:ash",
+      "count": 2
+    },
+    {
+      "item": "supplementaries:ash",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 250
+}

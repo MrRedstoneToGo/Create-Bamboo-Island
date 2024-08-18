@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/iron_nugget",
+  "criteria": {
+    "ash": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["supplementaries:ash"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.ash.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.ash.title"
+    }
+  },
+  "requirements": [
+    ["ash"]
+  ],
+  "sends_telemetry_event": true
+}

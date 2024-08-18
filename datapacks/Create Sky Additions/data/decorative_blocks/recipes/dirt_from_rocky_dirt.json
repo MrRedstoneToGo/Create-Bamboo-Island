@@ -1,0 +1,29 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "decorative_blocks:rocky_dirt"
+		}
+	],
+	"result": [
+		{
+			"item": "minecraft:dirt"
+		},
+		{
+			"item": "minecraft:flint",
+			"count": 2
+		},
+		{
+			"item": "minecraft:flint",
+			"chance": 0.5
+		},
+		{
+			"item": "minecraft:iron_nugget",
+			"chance": 0.125
+		}
+	],
+	"tool": {
+		"fabric:type": "farmersdelight:tool_action",
+		"action": "shovel_dig"
+	}
+}

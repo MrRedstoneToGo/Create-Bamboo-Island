@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:asurine"
+    }
+  ]
+}

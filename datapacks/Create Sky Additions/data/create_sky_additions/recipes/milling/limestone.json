@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "processingTime": 250
+}

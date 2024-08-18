@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:coarse_dirt",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/flax",
+  "criteria": {
+    "kelp": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "item": {
+        "items": ["minecraft:kelp"]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.kelp.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:kelp"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.kelp.title"
+    }
+  },
+  "requirements": [
+    ["kelp"]
+  ],
+  "sends_telemetry_event": true
+}

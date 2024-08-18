@@ -1,0 +1,41 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/use_bonemeal_on_ground",
+  "criteria": {
+    "lapis_lazuli": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:green_dye"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.green_dye.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:green_dye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.green_dye.title"
+    }
+  },
+  "requirements": [
+    ["lapis_lazuli"]
+  ],
+  "sends_telemetry_event": true
+}

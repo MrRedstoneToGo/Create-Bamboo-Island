@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/mechanical_crafter",
+  "criteria": {
+    "crushing_wheel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:crushing_wheel"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.crushing_wheel.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "create:crushing_wheel"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.crushing_wheel.title"
+    }
+  },
+  "requirements": [
+    ["crushing_wheel"]
+  ],
+  "sends_telemetry_event": true
+}

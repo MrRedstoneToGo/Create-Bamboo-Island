@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "stack": "item:create:chromatic_compound",
+      "after": "item:create:polished_rose_quartz"
+    },
+    {
+      "stack": "item:create:shadow_steel",
+      "after": "item:create:chromatic_compound"
+    },
+    {
+      "stack": "item:create:refined_radiance",
+      "after": "item:create:shadow_steel"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/gold_nugget",
+  "criteria": {
+    "rose_quartz": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/materials/rose_quartz"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.rose_quartz.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:quartz"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.rose_quartz.title"
+    }
+  },
+  "requirements": [
+    ["rose_quartz"]
+  ],
+  "sends_telemetry_event": true
+}

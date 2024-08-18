@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "supplementaries:ash_brick"
+  },
+  "result": "minecraft:nether_brick",
+  "experience": 0.0,
+  "cookingtime": 600
+}

@@ -1,0 +1,131 @@
+{
+  "advancements.create_bamboo_island.word_tip": "Tip",
+  
+  "advancements.create_bamboo_island.amethyst.title": "Polished Quartz",
+  "advancements.create_bamboo_island.amethyst.description": "Polish Nether Quartz. As soon as you have a few Amethysts together, you can also create a Budding Amethyst Block and harvest Amethysts from it.",
+  
+  "advancements.create_bamboo_island.ash.title": "Remnants Of the Bushfire",
+  "advancements.create_bamboo_island.ash.description": "Burn down some wood in order to get Ash.",
+  
+  "advancements.create_bamboo_island.bamboo_planks.title": "Skip the logs",
+  "advancements.create_bamboo_island.bamboo_planks.description.info": "Bamboo Planks can now be crafted in the 2x2 slot in your inventory.",
+  "advancements.create_bamboo_island.bamboo_planks.description.important": "Important! The following is essential for the rest of the game.",
+  "advancements.create_bamboo_island.bamboo_planks.description.tip": "Hover over an item and either %s or press %s to display its %s or %s or press %s to display its %s.",
+  "advancements.create_bamboo_island.bamboo_planks.description.left_click": "Left Click",
+  "advancements.create_bamboo_island.bamboo_planks.description.right_click": "Right Click",
+  "advancements.create_bamboo_island.bamboo_planks.description.recipes": "recipes",
+  "advancements.create_bamboo_island.bamboo_planks.description.uses": "uses",
+  
+  "advancements.create_bamboo_island.blaze_powder.title": "Smells Like a Fortress",
+  "advancements.create_bamboo_island.blaze_powder.description": "Blazes left some Rods on the ground which decayed over time. You are now able to find these remnants in Nether Bricks.",
+  
+  "advancements.create_bamboo_island.chromatic_compound.title": "Chromatic Return",
+  "advancements.create_bamboo_island.chromatic_compound.description": "Bring back the old days of Create.",
+  
+  "advancements.create_bamboo_island.compost.title": "Back To the Nature",
+  "advancements.create_bamboo_island.compost.description": "Compost Straw from stripping Bamboo Blocks on a Cutting Board and cut your fresh compost with any shovel.%sPut the item to cut in your off hand and the tool in your main hand and hold right click! By the way, Bamboo can be mined instantly with a sword.",
+  
+  "advancements.create_bamboo_island.copper_nugget.title": "Between the Sea Crystals",
+  "advancements.create_bamboo_island.copper_nugget.description": "Wash Prismarine Crystals to discover, what Guardians actually protect.",
+  
+  "advancements.create_bamboo_island.crushing_wheel.title": "Wheels Of Destruction",
+  "advancements.create_bamboo_island.crushing_wheel.description": "Until now, all you needed was a Millstone, but some recipes require a little more pressure.",
+  
+  "advancements.create_bamboo_island.empty_blaze_burner.title": "Blaze Cage",
+  "advancements.create_bamboo_island.empty_blaze_burner.description": "Craft a home for your future hot friend.",
+  
+  "advancements.create_bamboo_island.end_portal_frame.title": "Let's Build the Portal",
+  "advancements.create_bamboo_island.end_portal_frame.description": "With the power of Chromatic Compound, you are now ready to build the portal to the third dimension and defeat the Ender Dragon to play through this pack (thanks for playing, leave some feedback on GitHub).",
+  
+  "advancements.create_bamboo_island.flax.title": "First Fiber",
+  "advancements.create_bamboo_island.flax.description": "Turn the Straw or Wheat in Packed Mud into Flax by washing it.",
+  
+  "advancements.create_bamboo_island.flint.title": "Pebbles",
+  "advancements.create_bamboo_island.flint.description": "Cut Rocky Dirt to get some first Flint.",
+  
+  "advancements.create_bamboo_island.gold_nugget.title": "Stolen From the Enemies",
+  "advancements.create_bamboo_island.gold_nugget.description": "Kill some Zombified Piglins and sell their gold to Piglins. Make sure to avoid misunderstandings because of your non-gold clothes.",
+  
+  "advancements.create_bamboo_island.green_dye.title": "Chlorophyl",
+  "advancements.create_bamboo_island.green_dye.description": "Extract the green leaf dye from Fern.%sFern grows, among other plants, when you fertilize a Grass Block.",
+  
+  "advancements.create_bamboo_island.honey.title": "Buzzy Trees",
+  "advancements.create_bamboo_island.honey.description": "Let a few Bees move into a Cherry Tree and collect Honey from them.%sYou can get Glass Bottles by drinking empty Water Bottles.",
+  
+  "advancements.create_bamboo_island.iron_nugget.title": "Acquire Nuggets",
+  "advancements.create_bamboo_island.iron_nugget.description": "Find some iron in Rocky Dirt.",
+  
+  "advancements.create_bamboo_island.jetpack.title": "Pressured Air Is the Limit!",
+  "advancements.create_bamboo_island.jetpack.description": "Make yourself something to fly ... and this is not an Elytra.",
+  
+  "advancements.create_bamboo_island.kelp.title": "Conveyor Kelp",
+  "advancements.create_bamboo_island.kelp.description": "Fish the ressource that provides many new ways to move items.",
+  
+  "advancements.create_bamboo_island.kill_warden.title": "Warden's Heart",
+  "advancements.create_bamboo_island.kill_warden.description": "Kill the Warden to retrieve the Crystal that brought him back to life.",
+  
+  "advancements.create_bamboo_island.kill_wither.title": "Wither's Heart",
+  "advancements.create_bamboo_island.kill_wither.description": "Kill the Nether Boss to discover the real power of the Nether.",
+  
+  "advancements.create_bamboo_island.lapis_lazuli.title": "Enchanting Powder",
+  "advancements.create_bamboo_island.lapis_lazuli.description": "Mill some Calcite and you'll get this enchanting dust.",
+  
+  "advancements.create_bamboo_island.lava.description": "Fill your bucket with 20 super-heated Cobblestones.",
+  
+  "advancements.create_bamboo_island.limestone.title": "Chemical Reactions",
+  "advancements.create_bamboo_island.limestone.description": "Let Honey and Lava (See advancement line with nether stuff) flow into each other.",
+  
+  "advancements.create_bamboo_island.magma_block.title": "Blazing Stone",
+  "advancements.create_bamboo_island.magma_block.description": "Obtain the material that opens the door to the Nether when washed.",
+  
+  "advancements.create_bamboo_island.mechanical_crafter.title": "Are You Still Crafting MANUALLY?",
+  "advancements.create_bamboo_island.mechanical_crafter.description": "Craft those Crafters which will automatically craft Crafters later on.",
+  
+  "advancements.create_bamboo_island.netherite_ingot.title": "Isn't It Netherite Time?",
+  "advancements.create_bamboo_island.netherite_ingot.description": "Take a bunch of Sturdy Sheets (32 exactly) and subject them to a large assembly until you have your first Netherite Ingot.",
+  
+  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.title": "Made Of Itself",
+  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.description": "Take some Flint, turn it into Gravel, combine it with the Dirt from Rocky Dirt cutting and create new Rocky Dirt.\nAnd with a bit magic of Skyblock, you'll be able to duplicate your Dirt.",
+    
+  "advancements.create_bamboo_island.root.title": "Create: Bamboo Island",
+  "advancements.create_bamboo_island.root.description": "Welcome to my Skyblock modpack! Unlike many other Skyblock maps, this time you have to deal with one Grass Block (which does not respawn), a Bamboo Shoot planted on it... and the CREATE mod. To go through all this stuff, my self-made advancement guide (%s to view) will guide you, with the ultimate goal of defeating the Ender Dragon, although you can continue playing. Good Luck!",
+  "advancements.create_bamboo_island.root.description.press_l": "press L",
+  
+  "advancements.create_bamboo_island.rose_quartz.title": "Flower Quartz",
+  "advancements.create_bamboo_island.rose_quartz.description": "Make the Piglins' Nether Quartz a bit rosy...",
+  
+  "advancements.create_bamboo_island.sculk_catalyst.title": "Catalysts",
+  "advancements.create_bamboo_island.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need to spread Sculk until a working Sculk Shrieker spawns.",
+  
+  "advancements.create_bamboo_island.slime_ball.title": "Sticky dough",
+  "advancements.create_bamboo_island.slime_ball.description": "Slime Balls are basically just lime Dough, right?",
+  
+  "advancements.create_bamboo_island.spawn_egg.title": "Looking For Home",
+  "advancements.create_bamboo_island.spawn_egg.description": "Let the Sniffer sniff for spawn eggs.",
+  
+  "advancements.create_bamboo_island.super_heated.title": "Renewable Fuel",
+  "advancements.create_bamboo_island.super_heated.description": "Give the blaze in the blaze burner a Straw and let it drink some Biofuel.",
+  
+  "advancements.create_bamboo_island.trident.title": "Big Fork",
+  "advancements.create_bamboo_island.trident.description": "Just craft it... It won't hurt anybody...",
+  
+  "advancements.create_bamboo_island.use_bonemeal_on_ground.title": "Colorful Flowers",
+  "advancements.create_bamboo_island.use_bonemeal_on_ground.description": "Spread Grass Blocks with Bonemeal or fertilize the Grass Block to let the Grass grow even more along some new plants.",
+  
+  "advancements.create_bamboo_island.water.title": "Rainy Days",
+  "advancements.create_bamboo_island.water.description": "Take water from a Rain Gutter.\n\nYou can fill a Cauldron with this water now and pour it onto Dirt with a Faucet.",
+  
+  "advancements.create_bamboo_island.zinc_nugget.title": "Drip Drip Drip",
+  "advancements.create_bamboo_island.zinc_nugget.description": "Mill Dripstone Blocks to to get what has settled when the water seeps through.",
+  
+  "create_sky_additions.word_chance": "Chance",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Place the Pointed Dripstone on the bottom surface of any solid block that has Mud on it.",
+  "emi.info.fishing_fish": "Can be fished as fish.",
+  "emi.info.fishing_junk": "Can be fished as junk.",
+  "emi.info.fishing_treasure": "Can be fished as treasure.",
+  "emi.info.piglin_bartering": "???",
+  "emi.info.sniffer_digging": "Can be dug up by a Sniffer.",
+     
+  "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
+  "functions.create_sky.cannot_place_island": "You cannot place an island here."
+}

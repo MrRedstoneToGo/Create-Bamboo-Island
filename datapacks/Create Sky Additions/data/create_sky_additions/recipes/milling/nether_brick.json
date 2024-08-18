@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:cinder_flour",
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 250
+}

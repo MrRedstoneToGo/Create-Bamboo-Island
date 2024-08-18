@@ -1,0 +1,45 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/compost",
+  "criteria": {
+    "use_bonemeal_on_ground": {
+            "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:grass_block"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["minecraft:bone_meal"]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.use_bonemeal_on_ground.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:grass"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.use_bonemeal_on_ground.title"
+    }
+  },
+  "requirements": [
+    ["use_bonemeal_on_ground"]
+  ],
+  "sends_telemetry_event": true
+}

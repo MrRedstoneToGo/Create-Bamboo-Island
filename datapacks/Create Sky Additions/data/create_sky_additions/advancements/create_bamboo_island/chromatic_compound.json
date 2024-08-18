@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/crushing_wheel",
+  "criteria": {
+    "chromatic_compound": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:chromatic_compound"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.chromatic_compound.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "create:chromatic_compound"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.chromatic_compound.title"
+    }
+  },
+  "requirements": [
+    ["chromatic_compound"]
+  ],
+  "sends_telemetry_event": true
+}

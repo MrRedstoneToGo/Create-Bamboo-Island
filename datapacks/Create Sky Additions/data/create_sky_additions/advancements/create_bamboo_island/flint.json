@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/compost",
+  "criteria": {
+    "flint": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:flint"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.flint.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:flint"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.flint.title"
+    }
+  },
+  "requirements": [
+    ["flint"]
+  ],
+  "sends_telemetry_event": true
+}

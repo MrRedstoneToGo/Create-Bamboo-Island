@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone_block"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 4
+    }
+  ],
+  "tool": {
+    "fabric:type": "farmersdelight:tool_action",
+    "action": "pickaxe_dig"
+  }
+}

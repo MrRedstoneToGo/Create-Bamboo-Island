@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/water",
+  "criteria": {
+    "flax": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["supplementaries:flax"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.flax.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:string"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.flax.title"
+    }
+  },
+  "requirements": [
+    ["flax"]
+  ],
+  "sends_telemetry_event": true
+}

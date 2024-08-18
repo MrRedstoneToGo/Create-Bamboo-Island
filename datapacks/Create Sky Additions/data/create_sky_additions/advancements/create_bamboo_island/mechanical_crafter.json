@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/rose_quartz",
+  "criteria": {
+    "mechanical_crafter": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/kinetics/mechanical_crafter"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.mechanical_crafter.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.mechanical_crafter.title"
+    }
+  },
+  "requirements": [
+    ["mechanical_crafter"]
+  ],
+  "sends_telemetry_event": true
+}

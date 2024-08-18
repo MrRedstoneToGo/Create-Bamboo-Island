@@ -1,0 +1,35 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/flint",
+  "criteria": {
+    "rocky_dirt": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "decorative_blocks:rocky_dirt",
+        "ingredients": [
+          {
+            "items": ["minecraft:coarse_dirt"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.title"
+    }
+  },
+  "requirements": [
+    ["rocky_dirt"]
+  ],
+  "sends_telemetry_event": true
+}

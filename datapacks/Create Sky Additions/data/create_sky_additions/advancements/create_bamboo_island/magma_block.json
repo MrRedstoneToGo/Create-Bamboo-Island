@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/slime_ball",
+  "criteria": {
+    "magma_block": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:magma_block"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.magma_block.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:magma_cream"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.magma_block.title"
+    }
+  },
+  "requirements": [
+    ["magma_block"]
+  ],
+  "sends_telemetry_event": true
+}

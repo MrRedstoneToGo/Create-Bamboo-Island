@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "s": {
+      "item": "create:sturdy_sheet"
+    },
+    "R": {
+      "item": "create:refined_radiance"
+    }
+  },
+  "pattern": [
+    "RsR",
+    "RDR",
+    "RsR"
+  ],
+  "result": {
+    "item": "minecraft:reinforced_deepslate"
+  },
+  "show_notification": true 
+}

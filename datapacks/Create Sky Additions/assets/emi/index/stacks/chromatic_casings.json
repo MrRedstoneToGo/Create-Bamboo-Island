@@ -1,0 +1,12 @@
+{
+  "added": [
+    {
+      "stack": "item:create:shadow_steel_casing",
+      "after": "item:create:copper_casing"
+    },
+    {
+      "stack": "item:create:refined_radiance_casing",
+      "after": "item:create:shadow_steel_casing"
+    }
+  ]
+}
