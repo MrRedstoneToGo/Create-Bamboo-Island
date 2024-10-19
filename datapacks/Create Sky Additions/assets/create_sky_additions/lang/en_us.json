@@ -25,8 +25,8 @@
   "advancements.create_bamboo_island.compost.title": "Back To the Nature",
   "advancements.create_bamboo_island.compost.description": "Compost Straw from stripping Bamboo Blocks on a Cutting Board and cut your fresh compost with any shovel.%sPut the item to cut in your off hand and the tool in your main hand and hold right click! By the way, Bamboo can be mined instantly with a sword.",
   
-  "advancements.create_bamboo_island.copper_nugget.title": "Between the Sea Crystals",
-  "advancements.create_bamboo_island.copper_nugget.description": "Wash Prismarine Crystals to discover, what Guardians actually protect.",
+  "advancements.create_bamboo_island.copper_nugget.title": "Broken Prismarine",
+  "advancements.create_bamboo_island.copper_nugget.description": "Wash Prismarine Shards to discover, what Guardians actually protect.",
   
   "advancements.create_bamboo_island.crushing_wheel.title": "Wheels Of Destruction",
   "advancements.create_bamboo_island.crushing_wheel.description": "Until now, all you needed was a Millstone, but some recipes require a little more pressure.",
@@ -123,9 +123,9 @@
   "emi.info.fishing_fish": "Can be fished as fish.",
   "emi.info.fishing_junk": "Can be fished as junk.",
   "emi.info.fishing_treasure": "Can be fished as treasure.",
-  "emi.info.piglin_bartering": "???",
+  "emi.info.piglin_bartering": "Can be traded by Piglins.",
   "emi.info.sniffer_digging": "Can be dug up by a Sniffer.",
      
-  "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
-  "functions.create_sky.cannot_place_island": "You cannot place an island here."
+  "functions.create_bamboo_island.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
+  "functions.create_bamboo_island.cannot_place_island": "You cannot place an island here."
 }

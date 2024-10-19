@@ -2,7 +2,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "item": "minecraft:prismarine_crystals"
+      "item": "minecraft:prismarine_shard"
     }
   ],
   "processingTime": 250,
@@ -10,10 +10,10 @@
     {
       "item": "create:copper_nugget",
       "count": 2,
-      "chance": 0.5
+      "chance": 0.3
     },
     {
-      "item": "bettertridents:trident_fragment",
+      "item": "minecraft:prismarine_crystals",
       "chance": 0.05
     }
   ]

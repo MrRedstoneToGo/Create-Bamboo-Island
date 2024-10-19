@@ -20,7 +20,7 @@
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "minecraft:prismarine_crystals"
+      "item": "minecraft:prismarine_shard"
     },
     "show_toast": true,
     "title": {
