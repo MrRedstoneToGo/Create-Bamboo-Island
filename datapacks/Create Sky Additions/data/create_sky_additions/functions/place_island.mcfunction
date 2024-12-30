@@ -1,5 +1,5 @@
-setblock ~ 63 ~ grass_block
-setblock ~ 64 ~ bamboo_sapling
-teleport @s ~ 64 ~
-spawnpoint @s ~ 80 ~
+setblock ~ -1 ~ grass_block
+setblock ~ 0 ~ bamboo_sapling
+teleport @s ~ 0 ~
+spawnpoint @s ~ 16 ~
 scoreboard players set @s createIsland -1

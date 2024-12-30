@@ -5,13 +5,13 @@
     "b": {
       "item": "minecraft:blaze_rod"
     },
-    "M": {
-      "item": "minecraft:magma_cream"
+    "F": {
+      "item": "minecraft:fire_charge"
     }
   },
   "pattern": [
     "bbb",
-    "bMb",
+    "bFb",
     "bbb"
   ],
   "result": {

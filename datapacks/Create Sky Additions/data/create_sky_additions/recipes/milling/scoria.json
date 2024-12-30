@@ -2,19 +2,20 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "create:scorchia"
+      "item": "create:scoria"
     }
   ],
   "results": [
     {
-      "item": "minecraft:gunpowder"
+      "item": "supplementaries:ash",
+      "count": 2
     },
     {
-      "item": "minecraft:gunpowder",
+      "item": "supplementaries:ash",
       "chance": 0.5
     },
     {
-      "item": "minecraft:coal",
+      "item": "minecraft:charcoal",
       "chance": 0.25
     }
   ],

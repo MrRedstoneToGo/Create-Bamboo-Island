@@ -1,0 +1,131 @@
+{
+  "advancements.create_bamboo_island.word_tip": "Подсказка",
+  
+  "advancements.create_bamboo_island.amethyst.title": "Полируя Кварц",
+  "advancements.create_bamboo_island.amethyst.description": "Полированный Незерский Кварц. Как только у вас появится пара Аметистов, вы сможете сделать Цветущий Аметистовый Блок и собирать Аметисты с него!.",
+  
+  "advancements.create_bamboo_island.ash.title": "Остатки лесного пожара",
+  "advancements.create_bamboo_island.ash.description": "Сожгите немного Дерева, чтобы получить Золу.",
+  
+  "advancements.create_bamboo_island.bamboo_planks.title": "Пропуская бревна",
+  "advancements.create_bamboo_island.bamboo_planks.description.info": "Бамбуковые доски могут быть сделаны в 2х2 слоте инвентаря.",
+  "advancements.create_bamboo_island.bamboo_planks.description.important": "Важно! Следующее предложение обязательно к прочтению.",
+  "advancements.create_bamboo_island.bamboo_planks.description.tip": "Наведите курсор на предмет и нажмите %s / %s чтобы показать его %s или %s / %s Чтобы показать где он %s.",
+  "advancements.create_bamboo_island.bamboo_planks.description.left_click": "Левая кнопка мыши",
+  "advancements.create_bamboo_island.bamboo_planks.description.right_click": "Правая кнопка мыши",
+  "advancements.create_bamboo_island.bamboo_planks.description.recipes": "Рецепт",
+  "advancements.create_bamboo_island.bamboo_planks.description.uses": "Используется",
+  
+  "advancements.create_bamboo_island.blaze_powder.title": "Пахнет крепостью",
+  "advancements.create_bamboo_island.blaze_powder.description": "Ифриты оставили немного Огненных стержней на поверхности, которые разложились со временем. Теперь вы можете найти их в Незерских кирпичах.",
+  
+  "advancements.create_bamboo_island.chromatic_compound.title": "Хроматик Возвращается",
+  "advancements.create_bamboo_island.chromatic_compound.description": "Bерните в старые времена Create.",
+  
+  "advancements.create_bamboo_island.compost.title": "Назад к природе",
+  "advancements.create_bamboo_island.compost.description": "Компостируйте Солому полученную из переработки Бамбуковых Блоков на Разделочной Доске, после чего переработайте свежий компост любой лопатой.%sПоложите предмет для обработки в левую руку и инструмент в основную руку, после чего нажимайте правую кнопку мыши! Кстати, бамбук можно добывать мгновенно с помощью меча.",
+  
+  "advancements.create_bamboo_island.copper_nugget.title": "Сломанный Призмарин",
+  "advancements.create_bamboo_island.copper_nugget.description": "Промойте Осколки Призмарина, чтобы узнать что на самом деле защищают Стражи.",
+  
+  "advancements.create_bamboo_island.crushing_wheel.title": "Колёса разрушения",
+  "advancements.create_bamboo_island.crushing_wheel.description": "До сих пор, все что вам было нужно это жернов, но некоторые рецепты требуют немного большего давления.",
+  
+  "advancements.create_bamboo_island.empty_blaze_burner.title": "Ифритовая клетка",
+  "advancements.create_bamboo_island.empty_blaze_burner.description": "Сделайте дом для ваших будущих 'не' друзей.",
+  
+  "advancements.create_bamboo_island.end_portal_frame.title": "Давайте строить портал",
+  "advancements.create_bamboo_island.end_portal_frame.description": "С Пылью Хроматического Компаунда, вы сможете построить портал в третье измерение, и победить Эндер Дракона чтобы пройти этот модпак (Спасибо огромное что прошли данный модпак, оставьте свой отзыв на GitHub <3).",
+  
+  "advancements.create_bamboo_island.flax.title": "Первые Нити",
+  "advancements.create_bamboo_island.flax.description": "Преврати Солому или Пшеницу в Упакованную Грязь и промой её, чтобы получить Лён.",
+  
+  "advancements.create_bamboo_island.flint.title": "Кремний",
+  "advancements.create_bamboo_island.flint.description": "Обработайте Каменную Землю что бы получить Кремень.",
+  
+  "advancements.create_bamboo_island.gold_nugget.title": "Украдено у врагов",
+  "advancements.create_bamboo_island.gold_nugget.description": "Убей Зомбифицированного Пиглина и продай его золото Пиглинам. Убедитесь, что вы избежите недоразумений из-за вашей не золотой одежды.",
+  
+  "advancements.create_bamboo_island.green_dye.title": "Хлорофил",
+  "advancements.create_bamboo_island.green_dye.description": "Добудьте зелёный краситель из Папоротника.%sПапоротник растёт вдали от других растений, когда ты удобряешь Дёрн.",
+  
+  "advancements.create_bamboo_island.honey.title": "Жужжащие Деревья",
+  "advancements.create_bamboo_island.honey.description": "Пусть несколько пчел переселятся на вишневое дерево и соберут с них мед.%sВы можете получить стеклянные бутылки, выпивая пустые бутылки из-под воды? (хз хачем разработчик это написал XD)",
+  
+  "advancements.create_bamboo_island.iron_nugget.title": "Получение Самородка",
+  "advancements.create_bamboo_island.iron_nugget.description": "Найдите немного Железных Самородков в Каменной Земле.",
+  
+  "advancements.create_bamboo_island.jetpack.title": "Воздух под давлением – это предел!",
+  "advancements.create_bamboo_island.jetpack.description": "Сделайте себе что-то для полета ... И не значит что это будут Элитры.",
+  
+  "advancements.create_bamboo_island.kelp.title": "Ламинариевый Конвеер",
+  "advancements.create_bamboo_island.kelp.description": "Ловля рыбы может давать много различных ресурсов, просто попробуйте!.",
+  
+  "advancements.create_bamboo_island.kill_warden.title": "Сердце Хранителя",
+  "advancements.create_bamboo_island.kill_warden.description": "Убей Хранителя чтобы получить Осколок Эха, который может его воскресить.",
+  
+  "advancements.create_bamboo_island.kill_wither.title": "Сердце Иссушителя",
+  "advancements.create_bamboo_island.kill_wither.description": "Убейте босса Незера, чтобы обуздать реальную силу Незера.",
+  
+  "advancements.create_bamboo_island.lapis_lazuli.title": "Чарующий Порошок",
+  "advancements.create_bamboo_island.lapis_lazuli.description": "Измельчите немного Кальцита и вы получите эту Чарующую Пыль(Лазурит).",
+  
+  "advancements.create_bamboo_island.lava.description": "Заполните своё ведро 20 супер-нагретым Булыжником.",
+  
+  "advancements.create_bamboo_island.limestone.title": "Химическая реакция",
+  "advancements.create_bamboo_island.limestone.description": "Позвольте Мёду и Лаве течь друг в друга.",
+  
+  "advancements.create_bamboo_island.magma_block.title": "Пылающий Камень",
+  "advancements.create_bamboo_island.magma_block.description": "Получите материал который откроет дверь в Незер, когда будет промыт.",
+  
+  "advancements.create_bamboo_island.mechanical_crafter.title": "Ты всё ещё крафтишь ОБЫЧНО?",
+  "advancements.create_bamboo_island.mechanical_crafter.description": "Скрафтите такой Крафтер который будет афтоматически крафтить Крафтеры).",
+  
+  "advancements.create_bamboo_island.netherite_ingot.title": "Разве это не время Незерита?",
+  "advancements.create_bamboo_island.netherite_ingot.description": "Возьмите связку Прочных листов (а именно 32 шт) и подвергните их большой переработке чтобы получить свой первый Незеритовый Лом.",
+  
+  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.title": "Сделанный собою",
+  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.description": "Возьми немного кремня, сделай из него Гравий и соедини его с Землёй для создания Каменистой Земли, обработайте её чтобы вновь создать Каменистую Землю.\nИспользуя мотыгу, ты можешь приумножить колличество Земли.",
+    
+  "advancements.create_bamboo_island.root.title": "Create: Bamboo Island",
+  "advancements.create_bamboo_island.root.description": "Добро пожаловать на мой Skyblock Модпак! В отличие от многих других карт Skyblock, здесь вам придется иметь дело с одним Блоком Травы (Который не восстанавливается), Бамбуковым Саженцем посаженым на Блок Травы... иииииИИИ!!! CREATE мод. Чтобы пройти через всё это, я сделал гайд в Ачивках (%s чтобы посмотреть) Которые помогут вам с ультимативной целью убить Эндер Дракона, теперь вы можете начинать. УДАЧИ! \nПереведено обычным игроком Kenshi-SQ. Дискорд для связи: hlebushekk_",
+  "advancements.create_bamboo_island.root.description.press_l": "Нажмите L",
+  
+  "advancements.create_bamboo_island.rose_quartz.title": "Цветной Кварц",
+  "advancements.create_bamboo_island.rose_quartz.description": "Сделайте Незер Кварц Пиглинов немного розовым...",
+  
+  "advancements.create_bamboo_island.sculk_catalyst.title": "Катализатор",
+  "advancements.create_bamboo_island.sculk_catalyst.description": "Поставьте Эндерняк под несколько машин, и у вас будет все необходимое, чтобы распространять Скалк до тех пор, пока не появится работающий Скалковый Крикун.",
+  
+  "advancements.create_bamboo_island.slime_ball.title": "Липкое тесто",
+  "advancements.create_bamboo_island.slime_ball.description": "Сгусток слизи это-же просто зелёное тесто, да?",
+  
+  "advancements.create_bamboo_island.spawn_egg.title": "Поиск для дома",
+  "advancements.create_bamboo_island.spawn_egg.description": "Позволь Нюхачу понюхать чтобы появилось яйцо.",
+  
+  "advancements.create_bamboo_island.super_heated.title": "Возобновляемое топливо",
+  "advancements.create_bamboo_island.super_heated.description": "Дайте Ифриту в горелке Соломы и выпить немного Биотоплива.",
+  
+  "advancements.create_bamboo_island.trident.title": "Большая вилка",
+  "advancements.create_bamboo_island.trident.description": "Просто сделай это... Это никому не повредит...",
+  
+  "advancements.create_bamboo_island.use_bonemeal_on_ground.title": "Разноцветные цветы",
+  "advancements.create_bamboo_island.use_bonemeal_on_ground.description": "Удобрите Блок Земли костяной мукой, чтобы быстрее получить Блок Травы или удобрите Блок Травы, чтобы трава еще больше разрослась вместе с некоторыми новыми растениями.",
+  
+  "advancements.create_bamboo_island.water.title": "Дождливые дни",
+  "advancements.create_bamboo_island.water.description": "Возьмите воду ведром из Водостока.\n\nВы можете наполнить Котёл водой и наполнить Блок Земли водой при помощи Крана.",
+  
+  "advancements.create_bamboo_island.zinc_nugget.title": "Кап Кап Кап",
+  "advancements.create_bamboo_island.zinc_nugget.description": "Измельчите Натёчный Камень, чтобы получить то, что осело, когда вода просачивалась через него.",
+  
+  "create_sky_additions.word_chance": "Шанс",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Поместите Капельник на нижнюю поверхность любого твердого блока, на котором есть грязь.",
+  "emi.info.fishing_fish": "Можно выловить как рыбу.",
+  "emi.info.fishing_junk": "Можно выловить как мусор.",
+  "emi.info.fishing_treasure": "Можно выловить как сокровище.",
+  "emi.info.piglin_bartering": "Может продать Пиглин.",
+  "emi.info.sniffer_digging": "Может выкопать Нюхач.",
+     
+  "functions.create_bamboo_island.spawn_message": "Поворачивайтесь, чтобы определить положение вашего острова. Если маркер зеленый, вы можете создать остров с помощью %s, если маркер красный, ничего не произойдет.",
+  "functions.create_bamboo_island.cannot_place_island": "Здесь нельзя разместить остров."
+}

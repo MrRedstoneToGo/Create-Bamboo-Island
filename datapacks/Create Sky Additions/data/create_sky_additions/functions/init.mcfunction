@@ -1,7 +1,6 @@
-fill -1 63 -1 1 63 1 grass_block
+fill -1 -1 -1 1 -1 1 grass_block
 setworldspawn 0 64 0
 
-gamerule doInsomnia false
 gamerule doPatrolSpawning false
 gamerule doTraderSpawning false
 
