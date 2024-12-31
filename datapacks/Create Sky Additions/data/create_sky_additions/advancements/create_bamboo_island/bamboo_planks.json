@@ -54,5 +54,5 @@
   "requirements": [
     ["planks_in_inventory"]
   ],
-  "sends_telemetry_event": true
+  "sends_telemetry_event": false
 }

@@ -1,13 +1,14 @@
 {
   "criteria": {
     "create_sky": {
-      "trigger": "minecraft:tick",
-            "conditions": {
-        "player": {
-          "flags": {
-            "is_sneaking": true
+      "trigger": "minecraft:enter_block",
+        "conditions": {
+          "block": "minecraft:bamboo",
+          "player": {
+            "flags": {
+              "is_sneaking": true
+            }
           }
-        }
       }
     }
   },
@@ -33,5 +34,5 @@
       "translate": "advancements.create_bamboo_island.root.title"
     }
   },
-  "sends_telemetry_event": true
+  "sends_telemetry_event": false
 }

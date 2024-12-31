@@ -3,8 +3,10 @@
   "criteria": {
     "kelp": {
       "trigger": "minecraft:fishing_rod_hooked",
-      "item": {
-        "items": ["minecraft:kelp"]
+      "conditions": {
+        "item": {
+          "items": ["minecraft:kelp"]
+        }
       }
     }
   },
@@ -26,5 +28,5 @@
   "requirements": [
     ["kelp"]
   ],
-  "sends_telemetry_event": true
+  "sends_telemetry_event": false
 }

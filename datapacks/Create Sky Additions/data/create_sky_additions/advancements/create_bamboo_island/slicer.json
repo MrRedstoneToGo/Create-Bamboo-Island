@@ -1,30 +1,30 @@
 {
-  "parent": "create_sky_additions:create_bamboo_island/slime_ball",
+  "parent": "create_sky_additions:create_bamboo_island/rocky_dirt_from_coarse_dirt",
   "criteria": {
-    "magma_block": {
+    "slicer": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:magma_block"
+        "recipe_id": "sliceanddice:slicer"
       }
     }
   },
   "display": {
     "announce_to_chat": false,
     "description": {
-      "translate": "advancements.create_bamboo_island.magma_block.description"
+      "translate": "advancements.create_bamboo_island.slicer.description"
     },
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "minecraft:magma_cream"
+      "item": "farmersdelight:cutting_board"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.create_bamboo_island.magma_block.title"
+      "translate": "advancements.create_bamboo_island.slicer.title"
     }
   },
   "requirements": [
-    ["magma_block"]
+    ["slicer"]
   ],
   "sends_telemetry_event": false
 }
