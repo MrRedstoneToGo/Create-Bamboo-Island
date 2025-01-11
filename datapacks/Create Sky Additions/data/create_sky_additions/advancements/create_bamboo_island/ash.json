@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["ash"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

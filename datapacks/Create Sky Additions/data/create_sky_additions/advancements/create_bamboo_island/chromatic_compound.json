@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["chromatic_compound"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

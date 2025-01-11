@@ -2,7 +2,7 @@
   "parent": "create_sky_additions:create_bamboo_island/root",
   "criteria": {
     "planks_in_inventory": {
-            "trigger": "minecraft:recipe_crafted",
+      "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipe_id": "create_sky_additions:crafting/bamboo_planks"  
       }
@@ -53,6 +53,5 @@
   },
   "requirements": [
     ["planks_in_inventory"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

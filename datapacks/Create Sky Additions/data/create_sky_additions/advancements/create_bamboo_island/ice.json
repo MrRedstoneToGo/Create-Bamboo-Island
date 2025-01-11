@@ -1,12 +1,12 @@
 {
   "parent": "create_sky_additions:create_bamboo_island/iron_nugget",
   "criteria": {
-    "cauldron": {
+    "ice": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:water_bucket"]
+            "items": ["minecraft:ice"]
           }
         ]
       }
@@ -15,20 +15,19 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "translate": "advancements.create_bamboo_island.water.description"
+      "translate": "advancements.create_bamboo_island.ice.description"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "mcwroofs:rain_gutter"
+      "item": "minecraft:snowball"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.create_bamboo_island.water.title"
+      "translate": "advancements.create_bamboo_island.ice.title"
     }
   },
   "requirements": [
-    ["cauldron"]
-  ],
-  "sends_telemetry_event": false
+    ["ice"]
+  ]
 }

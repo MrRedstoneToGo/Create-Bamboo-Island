@@ -1,0 +1,42 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/kill_warden",
+  "criteria": {
+    "jumped": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "distance": {
+          "y": {
+            "min": 1
+          }
+        },
+        "player": {
+          "location": {
+            "block": {
+              "blocks": ["minecraft:sculk_shrieker"],
+              "state": {
+                "can_summon": false
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "",
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "show_toast": false,
+    "title": ""
+  },
+  "requirements": [
+    ["jumped"]
+  ],
+  "rewards": {
+    "function": "create_sky_additions:jumped_on_sculk_shrieker"
+  }
+}

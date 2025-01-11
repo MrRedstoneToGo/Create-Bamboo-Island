@@ -52,6 +52,9 @@
   "advancements.create_bamboo_island.honey.title": "Жужжащие Деревья",
   "advancements.create_bamboo_island.honey.description": "Пусть несколько пчел переселятся на вишневое дерево и соберут с них мед.%sВы можете получить стеклянные бутылки, выпивая пустые бутылки из-под воды? (хз хачем разработчик это написал XD)",
   
+  "advancements.create_bamboo_island.ice.title": "Новый агрегат",
+  "advancements.create_bamboo_island.ice.description": "Достройте себя хотя бы до 210 уровня, соберите несколько снежков и уплотните все в лёд.",
+  
   "advancements.create_bamboo_island.iron_nugget.title": "Получение Самородка",
   "advancements.create_bamboo_island.iron_nugget.description": "Найдите немного Железных Самородков в Каменной Земле.",
   
@@ -95,7 +98,7 @@
   "advancements.create_bamboo_island.rose_quartz.description": "Сделайте Незер Кварц Пиглинов немного розовым...",
   
   "advancements.create_bamboo_island.sculk_catalyst.title": "Катализатор",
-  "advancements.create_bamboo_island.sculk_catalyst.description": "Поставьте Эндерняк под несколько машин, и у вас будет все необходимое, чтобы распространять Скалк до тех пор, пока не появится работающий Скалковый Крикун.",
+  "advancements.create_bamboo_island.sculk_catalyst.description": "Поставьте Эндерняк под несколько машин, и у вас будет все необходимое, чтобы распространять Скалк до тех пор, пока не появится работающий Скалковый Крикун. Затем вам нужно запрыгнуть на него один раз, чтобы он также смог породить варденов.",
   
   "advancements.create_bamboo_island.slicer.title": "Автоматизированные кухонные работы",
   "advancements.create_bamboo_island.slicer.description": "Устали резать все предметы вручную? Есть решение: Слайсер!",
@@ -115,14 +118,10 @@
   "advancements.create_bamboo_island.use_bonemeal_on_ground.title": "Разноцветные цветы",
   "advancements.create_bamboo_island.use_bonemeal_on_ground.description": "Удобрите Блок Земли костяной мукой, чтобы быстрее получить Блок Травы или удобрите Блок Травы, чтобы трава еще больше разрослась вместе с некоторыми новыми растениями.",
   
-  "advancements.create_bamboo_island.water.title": "Дождливые дни",
-  "advancements.create_bamboo_island.water.description": "Возьмите воду ведром из Водостока.\n\nВы можете наполнить Котёл водой и наполнить Блок Земли водой при помощи Крана.",
-  
   "advancements.create_bamboo_island.zinc_nugget.title": "Кап Кап Кап",
   "advancements.create_bamboo_island.zinc_nugget.description": "Измельчите Натёчный Камень, чтобы получить то, что осело, когда вода просачивалась через него.",
   
   "create_sky_additions.word_chance": "Шанс",
-  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Поместите Капельник на нижнюю поверхность любого твердого блока, на котором есть грязь.",
   "emi.info.fishing_fish": "Можно выловить как рыбу.",
   "emi.info.fishing_junk": "Можно выловить как мусор.",
   "emi.info.fishing_treasure": "Можно выловить как сокровище.",

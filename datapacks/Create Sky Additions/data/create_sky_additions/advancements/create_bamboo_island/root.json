@@ -33,6 +33,5 @@
     "title": {
       "translate": "advancements.create_bamboo_island.root.title"
     }
-  },
-  "sends_telemetry_event": false
+  }
 }

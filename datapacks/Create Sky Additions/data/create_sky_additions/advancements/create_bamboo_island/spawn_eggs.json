@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["spawn_eggs"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["blaze_powder"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

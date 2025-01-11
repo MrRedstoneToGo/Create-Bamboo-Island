@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["rose_quartz"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

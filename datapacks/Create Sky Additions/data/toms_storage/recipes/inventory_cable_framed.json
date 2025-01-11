@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "toms_storage:ts.inventory_cable"
+    },
+    {
+      "item": "supplementaries:timber_frame"
+    }
+  ],
+  "results": [
+    {
+      "item": "toms_storage:ts.inventory_cable_framed"
+    }
+  ]
+}

@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["jetpack"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

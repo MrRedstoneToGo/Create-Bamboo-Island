@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["crushing_wheel"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

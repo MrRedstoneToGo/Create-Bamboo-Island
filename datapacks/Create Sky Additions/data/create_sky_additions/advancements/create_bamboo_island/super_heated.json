@@ -40,6 +40,5 @@
   },
   "requirements": [
     ["super_heat"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

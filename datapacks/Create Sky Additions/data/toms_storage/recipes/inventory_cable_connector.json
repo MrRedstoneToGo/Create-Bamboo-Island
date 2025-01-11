@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "toms_storage:ts.inventory_cable"
+    },
+    "T": {
+      "tag": "minecraft:wooden_trapdoors"
+    }
+  },
+  "pattern": [
+    "iT"
+    ],
+  "result": {
+    "item": "toms_storage:ts.inventory_cable_connector"
+  },
+  "show_notification": true 
+}

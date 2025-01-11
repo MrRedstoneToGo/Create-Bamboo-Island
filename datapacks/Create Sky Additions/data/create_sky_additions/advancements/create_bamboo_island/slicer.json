@@ -16,7 +16,7 @@
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "farmersdelight:cutting_board"
+      "item": "sliceanddice:slicer"
     },
     "show_toast": true,
     "title": {
@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["slicer"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

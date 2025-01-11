@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["end_portal_frame"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

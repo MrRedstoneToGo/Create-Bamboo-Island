@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "farmersdelight:safety_net"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sSs",
+    " s "
+  ],
+  "result": {
+    "item": "toms_storage:ts.tag_item_filter"
+  },
+  "show_notification": true 
+}

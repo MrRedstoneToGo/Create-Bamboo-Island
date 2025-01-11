@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["trident"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

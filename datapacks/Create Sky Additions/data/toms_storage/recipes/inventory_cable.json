@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "AAA",
+    "ppp"
+  ],
+  "result": {
+    "count": 16,
+    "item": "toms_storage:ts.inventory_cable"
+  },
+  "show_notification": true 
+}

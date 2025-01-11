@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "building",
-    "key": {
-        "a": {
-            "item": "minecraft:amethyst_shard"
-        },
-        "A": {
-            "item": "minecraft:amethyst_block"
-        }
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
     },
-    "pattern": [
-        " a ",
-        "aAa",
-        " a "
-    ],
-    "result": {
-        "item": "minecraft:budding_amethyst"
-    },
-    "show_notification": true 
+    "A": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "pattern": [
+    " a ",
+    "aAa",
+    " a "
+  ],
+  "result": {
+    "item": "minecraft:budding_amethyst"
+  },
+  "show_notification": true 
 }

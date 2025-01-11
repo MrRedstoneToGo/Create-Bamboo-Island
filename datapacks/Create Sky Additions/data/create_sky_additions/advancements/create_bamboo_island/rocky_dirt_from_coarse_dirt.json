@@ -30,6 +30,5 @@
   },
   "requirements": [
     ["rocky_dirt"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

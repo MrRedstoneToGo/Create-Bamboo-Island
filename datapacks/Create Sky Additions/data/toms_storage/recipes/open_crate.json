@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "tag": "minecraft:planks"
+    },
+    "s": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "psp",
+    "p p",
+    "p p"
+  ],
+  "result": {
+    "item": "toms_storage:ts.open_crate"
+  },
+  "show_notification": true 
+}

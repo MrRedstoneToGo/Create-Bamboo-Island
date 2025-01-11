@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sCs",
+    " s "
+  ],
+  "result": {
+    "item": "toms_storage:ts.polymorphic_item_filter"
+  },
+  "show_notification": true 
+}

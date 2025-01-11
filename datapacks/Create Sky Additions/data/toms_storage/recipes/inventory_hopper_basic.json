@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "t": {
+      "item": "toms_storage:ts.trim"
+    },
+    "h": {
+      "item": "minecraft:hopper"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "pattern": [
+    "tEt",
+    " h "
+  ],
+  "result": {
+    "item": "toms_storage:ts.inventory_hopper_basic"
+  },
+  "show_notification": true 
+}

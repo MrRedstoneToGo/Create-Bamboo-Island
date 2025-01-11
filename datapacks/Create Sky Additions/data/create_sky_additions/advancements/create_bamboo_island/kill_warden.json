@@ -27,6 +27,5 @@
   },
   "requirements": [
     ["warden"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

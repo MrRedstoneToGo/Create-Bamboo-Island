@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["lava"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sWs",
+    " s "
+  ],
+  "result": {
+    "item": "toms_storage:ts.item_filter"
+  },
+  "show_notification": true 
+}

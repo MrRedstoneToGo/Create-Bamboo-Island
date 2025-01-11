@@ -27,6 +27,5 @@
   },
   "requirements": [
     ["kelp"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["amethyst"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

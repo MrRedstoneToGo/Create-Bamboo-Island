@@ -40,6 +40,5 @@
   },
   "requirements": [
     ["use_bonemeal_on_ground"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

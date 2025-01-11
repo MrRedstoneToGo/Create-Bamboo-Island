@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "farmersdelight:canvas"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "Bc",
+    "s "
+  ],
+  "result": {
+    "item": "toms_storage:ts.paint_kit"
+  },
+  "show_notification": true 
+}

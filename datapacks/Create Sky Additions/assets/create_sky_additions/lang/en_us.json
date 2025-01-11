@@ -52,6 +52,9 @@
   "advancements.create_bamboo_island.honey.title": "Buzzy Trees",
   "advancements.create_bamboo_island.honey.description": "Let a few Bees move into a Cherry Tree and collect Honey from them.%sYou can get Glass Bottles by drinking empty Water Bottles.",
   
+  "advancements.create_bamboo_island.ice.title": "A New Aggregat",
+  "advancements.create_bamboo_island.ice.description": "Build yourself up to at least level 210, collect a few snowballs and compact everything into ice.",
+  
   "advancements.create_bamboo_island.iron_nugget.title": "Acquire Nuggets",
   "advancements.create_bamboo_island.iron_nugget.description": "Find some iron in Rocky Dirt.",
   
@@ -95,7 +98,7 @@
   "advancements.create_bamboo_island.rose_quartz.description": "Make the Piglins' Nether Quartz a bit rosy...",
   
   "advancements.create_bamboo_island.sculk_catalyst.title": "Catalysts",
-  "advancements.create_bamboo_island.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need to spread Sculk until a working Sculk Shrieker spawns.",
+  "advancements.create_bamboo_island.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need to spread Sculk until a working Sculk Shrieker spawns. You then have to jump on it once so that it can also spawn Wardens.",
   
   "advancements.create_bamboo_island.slicer.title": "Automated Kitchenwork",
   "advancements.create_bamboo_island.slicer.description": "Tired of cutting all the items by hand? Well, there is a solution: The Slicer!",
@@ -115,14 +118,10 @@
   "advancements.create_bamboo_island.use_bonemeal_on_ground.title": "Colorful Flowers",
   "advancements.create_bamboo_island.use_bonemeal_on_ground.description": "Spread Grass Blocks with Bonemeal or fertilize the Grass Block to let the Grass grow even more along some new plants.",
   
-  "advancements.create_bamboo_island.water.title": "Rainy Days",
-  "advancements.create_bamboo_island.water.description": "Take water from a Rain Gutter.\n\nYou can fill a Cauldron with this water now and pour it onto Dirt with a Faucet.",
-  
   "advancements.create_bamboo_island.zinc_nugget.title": "Drip Drip Drip",
   "advancements.create_bamboo_island.zinc_nugget.description": "Mill Dripstone Blocks to to get what has settled when the water seeps through.",
   
   "create_sky_additions.word_chance": "Chance",
-  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Place the Pointed Dripstone on the bottom surface of any solid block that has Mud on it.",
   "emi.info.fishing_fish": "Can be fished as fish.",
   "emi.info.fishing_junk": "Can be fished as junk.",
   "emi.info.fishing_treasure": "Can be fished as treasure.",

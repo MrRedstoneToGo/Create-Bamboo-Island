@@ -1,5 +1,5 @@
 fill -1 -1 -1 1 -1 1 grass_block
-setworldspawn 0 64 0
+setworldspawn 0 0 0
 
 gamerule doPatrolSpawning false
 gamerule doTraderSpawning false

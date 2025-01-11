@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "t": {
+      "item": "toms_storage:ts.trim"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "c": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "pattern": [
+    "T ",
+    "tc"
+  ],
+  "result": {
+    "item": "toms_storage:ts.level_emitter"
+  },
+  "show_notification": true 
+}

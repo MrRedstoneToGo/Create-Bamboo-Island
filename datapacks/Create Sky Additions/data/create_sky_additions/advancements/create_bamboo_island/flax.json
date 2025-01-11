@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:create_bamboo_island/water",
+  "parent": "create_sky_additions:create_bamboo_island/ice",
   "criteria": {
     "flax": {
       "trigger": "minecraft:inventory_changed",
@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["flax"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

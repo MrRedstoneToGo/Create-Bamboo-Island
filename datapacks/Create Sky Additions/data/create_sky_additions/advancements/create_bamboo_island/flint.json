@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["flint"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

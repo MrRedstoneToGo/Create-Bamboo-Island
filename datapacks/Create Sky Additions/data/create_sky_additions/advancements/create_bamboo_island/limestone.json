@@ -29,6 +29,5 @@
   },
   "requirements": [
     ["limestone"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

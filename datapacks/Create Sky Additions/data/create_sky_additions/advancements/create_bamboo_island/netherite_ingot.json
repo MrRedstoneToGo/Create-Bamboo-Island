@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["netherite_scrap"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

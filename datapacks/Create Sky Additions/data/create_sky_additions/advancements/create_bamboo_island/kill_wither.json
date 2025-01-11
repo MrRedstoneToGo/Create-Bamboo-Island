@@ -27,6 +27,5 @@
   },
   "requirements": [
     ["wither"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }

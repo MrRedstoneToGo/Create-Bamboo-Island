@@ -25,6 +25,5 @@
   },
   "requirements": [
     ["slime_ball"]
-  ],
-  "sends_telemetry_event": false
+  ]
 }
