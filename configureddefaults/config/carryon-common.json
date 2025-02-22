@@ -29,7 +29,8 @@
       "farmersdelight:stove",
       "railways:*",
       "sliceanddice:*",
-      "supplementaries:*"
+      "supplementaries:*",
+      "toms_storage:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

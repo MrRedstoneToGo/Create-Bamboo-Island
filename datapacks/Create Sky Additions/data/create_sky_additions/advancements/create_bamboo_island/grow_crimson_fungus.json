@@ -1,7 +1,7 @@
 {
-  "parent": "create_sky_additions:create_bamboo_island/compost",
+  "parent": "create_sky_additions:create_bamboo_island/blaze_powder",
   "criteria": {
-    "use_bonemeal_on_ground": {
+    "grow_crimson": {
       "trigger": "minecraft:item_used_on_block",
       "conditions": {
         "location": [
@@ -9,7 +9,7 @@
             "condition": "minecraft:location_check",
             "predicate": {
               "block": {
-                "blocks": ["minecraft:grass_block"]
+                "blocks": ["minecraft:crimson_stem"]
               }
             }
           },
@@ -26,19 +26,19 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "translate": "advancements.create_bamboo_island.use_bonemeal_on_ground.description"
+      "translate": "advancements.create_bamboo_island.grow_crimson_fungus.description"
     },
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "minecraft:grass"
+      "item": "minecraft:crimson_fungus"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.create_bamboo_island.use_bonemeal_on_ground.title"
+      "translate": "advancements.create_bamboo_island.grow_crimson_fungus.title"
     }
   },
   "requirements": [
-    ["use_bonemeal_on_ground"]
+    ["grow_crimson"]
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:iron_nuggets"
+    },
+    "S": {
+      "item": "toms_storage:ts.item_filter"
+    }
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:filter"
+  },
+  "show_notification": true
+}

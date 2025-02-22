@@ -6,7 +6,7 @@
       "item": "minecraft:stick"
     },
     "W": {
-      "tag": "minecraft:wool"
+      "item": "minecraft:string"
     }
   },
   "pattern": [

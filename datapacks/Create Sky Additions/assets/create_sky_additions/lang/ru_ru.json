@@ -49,6 +49,9 @@
   "advancements.create_bamboo_island.green_dye.title": "Хлорофил",
   "advancements.create_bamboo_island.green_dye.description": "Добудьте зелёный краситель из Папоротника.%sПапоротник растёт вдали от других растений, когда ты удобряешь Дёрн.",
   
+  "advancements.create_bamboo_island.grow_crimson_fungus.title": "Урожай с привидениями",
+  "advancements.create_bamboo_island.grow_crimson_fungus.description": "Срезайте грибы с мушмулы, преследуйте их и выращивайте.",
+
   "advancements.create_bamboo_island.honey.title": "Жужжащие Деревья",
   "advancements.create_bamboo_island.honey.description": "Пусть несколько пчел переселятся на вишневое дерево и соберут с них мед.%sВы можете получить стеклянные бутылки, выпивая пустые бутылки из-под воды? (хз хачем разработчик это написал XD)",
   
@@ -87,6 +90,9 @@
   "advancements.create_bamboo_island.netherite_ingot.title": "Разве это не время Незерита?",
   "advancements.create_bamboo_island.netherite_ingot.description": "Возьмите связку Прочных листов (а именно 32 шт) и подвергните их большой переработке чтобы получить свой первый Незеритовый Лом.",
   
+  "advancements.create_bamboo_island.redstone.title": "Сила цветов",
+  "advancements.create_bamboo_island.redstone.description": "Смешайте зелье силы с крапивой из их блоков и вылейте его на зольную муку.",
+
   "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.title": "Сделанный собою",
   "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.description": "Возьми немного кремня, сделай из него Гравий и соедини его с Землёй для создания Каменистой Земли, обработайте её чтобы вновь создать Каменистую Землю.\nИспользуя мотыгу, ты можешь приумножить колличество Земли.",
     

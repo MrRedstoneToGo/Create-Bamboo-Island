@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:brass_nuggets"
+    },
+    "S": {
+      "item": "toms_storage:ts.tag_item_filter"
+    }
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:attribute_filter"
+  },
+  "show_notification": true
+}

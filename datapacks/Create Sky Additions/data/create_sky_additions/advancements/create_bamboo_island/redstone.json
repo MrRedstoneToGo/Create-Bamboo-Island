@@ -1,0 +1,33 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/grow_crimson_fungus",
+  "criteria": {
+    "redstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:redstone"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.redstone.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.redstone.title"
+    }
+  },
+  "requirements": [
+    ["redstone"]
+  ]
+}

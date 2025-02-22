@@ -1,0 +1,5 @@
+{
+  "default_value": 0.2,
+  "gain_multiplier": 1.4,
+  "decay_multiplier": 1.2
+}
