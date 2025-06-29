@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "enter_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    ["enter_nether"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/nether.png",
+    "description": {
+      "translate": "advancements.nether.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crying_obsidian"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.nether.root.title"
+    }
+  }
+}

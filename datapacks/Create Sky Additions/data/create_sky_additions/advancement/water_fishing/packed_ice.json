@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:water_fishing/root",
+  "criteria": {
+    "packed_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:packed_ice"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.water_fishing.packed_ice.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:packed_ice"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.water_fishing.packed_ice.title"
+    }
+  },
+  "requirements": [
+    ["packed_ice"]
+  ]
+}

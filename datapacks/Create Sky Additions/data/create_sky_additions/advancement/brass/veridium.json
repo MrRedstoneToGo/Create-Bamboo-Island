@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:brass/tuff",
+  "criteria": {
+    "veridium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:veridium"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.brass.veridium.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:crushed_raw_copper"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.brass.veridium.title"
+    }
+  },
+  "requirements": [
+    ["veridium"]
+  ]
+}

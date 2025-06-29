@@ -1,0 +1,34 @@
+{
+  "parent": "create:burner",
+  "criteria": {
+    "biofuel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["createaddition:bioethanol_bucket"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.nether.biofuel.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "createaddition:biomass"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.biofuel.title"
+    }
+  },
+  "requirements": [
+    ["biofuel"]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "chromatic_compound": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:chromatic_compound"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["chromatic_compound"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/end_preparation.png",
+    "description": {
+      "translate": "advancements.end_preparation.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:chromatic_compound"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.end_preparation.root.title"
+    }
+  }
+}

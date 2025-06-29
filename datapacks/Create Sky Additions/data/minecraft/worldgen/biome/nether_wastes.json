@@ -1,7 +1,5 @@
 {
-  "carvers": {
-    "air": "minecraft:nether_cave"
-  },
+  "carvers": {},
   "downfall": 0.0,
   "effects": {
     "additions_sound": {
@@ -26,18 +24,7 @@
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "features": [
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    []
-  ],
+  "features": [],
   "has_precipitation": false,
   "spawn_costs": {},
   "spawners": {
@@ -46,12 +33,6 @@
     "creature": [],
     "misc": [],
     "monster": [
-      {
-        "type": "minecraft:blaze",
-        "maxCount": 3,
-        "minCount": 2,
-        "weight": 10
-      },
       {
         "type": "minecraft:zombified_piglin",
         "maxCount": 4,

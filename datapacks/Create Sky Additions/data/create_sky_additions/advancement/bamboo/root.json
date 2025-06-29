@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "sneak_on_island": {
+      "trigger": "minecraft:enter_block",
+        "conditions": {
+          "block": "minecraft:bamboo",
+          "player": {
+            "flags": {
+              "is_sneaking": true
+            }
+          }
+      }
+    }
+  },
+  "requirements": [
+    ["sneak_on_island"]
+  ],
+  "display": {
+    "announce_to_chat": true,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/bamboo.png",
+    "description": {
+      "translate": "advancements.create_bamboo_island.bamboo_island.root.description",
+      "with": [
+        {"translate": "advancements.root.description.press_l", "bold": true, "color": "red"}
+      ]
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bamboo"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bamboo_island.root.title"
+    }
+  }
+}

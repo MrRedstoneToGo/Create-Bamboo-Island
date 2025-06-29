@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:husbandry/fishy_business",
+  "criteria": {
+    "fishing_in_open_water": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "entity": [
+          {
+            "type_specific": {
+              "type": "fishing_hook",
+              "in_open_water": true
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["fishing_in_open_water"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.andesite_alloy.fishing_in_open_water.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fishing_rod",
+      "nbt": "{Echantments: [{id: \"minecraft:luck_of_the_sea\", lvl: 2b}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.andesite_alloy.fishing_in_open_water.title"
+    }
+  }
+}

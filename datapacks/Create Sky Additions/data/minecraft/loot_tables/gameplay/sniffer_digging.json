@@ -71,6 +71,10 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:goat_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armadillo_spawn_egg"
         }
       ],
       "rolls": 1.0

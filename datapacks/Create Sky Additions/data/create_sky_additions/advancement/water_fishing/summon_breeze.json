@@ -1,0 +1,61 @@
+{
+  "parent": "create_sky_additions:water_fishing/packed_ice",
+  "criteria": {
+    "summon_breeze": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:packed_ice"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:location_check",
+            "offsetY": -1,
+            "predicate": {
+              "block": {
+                "blocks": ["create:nozzle"],
+                "state": {
+                  "facing": "up"
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:location_check",
+            "offsetY": -2,
+            "predicate": {
+              "block": {
+                "blocks": ["create:encased_fan"],
+                "nbt": "{Speed:256f}"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.bamboo.summon_breeze.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:nozzle"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bamboo.summon_breeze.title"
+    }
+  },
+  "requirements": [
+    ["summon_breeze"]
+  ]
+}

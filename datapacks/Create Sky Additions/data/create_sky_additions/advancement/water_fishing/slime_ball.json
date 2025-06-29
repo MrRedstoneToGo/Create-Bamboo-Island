@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:water_fishing/dough",
+  "criteria": {
+    "slime_ball": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:slime_ball"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.water_fishing.slime_ball.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.water_fishing.slime_ball.title"
+    }
+  },
+  "requirements": [
+    ["slime_ball"]
+  ]
+}

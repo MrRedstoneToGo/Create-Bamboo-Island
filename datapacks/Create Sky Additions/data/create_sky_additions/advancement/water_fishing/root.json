@@ -1,0 +1,44 @@
+{
+  "criteria": {
+    "fished": {
+      "trigger": "minecraft:fishing_rod_hooked"
+    },
+    "get_water_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:water_bucket"]
+          }
+        ]
+      }
+    },
+    "step_in_water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water"
+      }
+      
+    }
+  },
+  "requirements": [
+    ["fished", "get_water_bucket", "step_in_water"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/water_fishing.png",
+    "description": {
+      "translate": "advancements.water_fishing.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.water_fishing.root.title"
+    }
+  }
+}

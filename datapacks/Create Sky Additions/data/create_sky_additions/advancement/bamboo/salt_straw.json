@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:bamboo/compost",
+  "criteria": {
+    "salt_straw": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["galosphere:salt_straw"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.bamboo.salt_straw.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bone_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bamboo.salt_straw.title"
+    }
+  },
+  "requirements": [
+    ["salt_straw"]
+  ]
+}

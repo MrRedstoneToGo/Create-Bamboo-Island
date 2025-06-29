@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:nether/netherrack",
+  "criteria": {
+    "crimson_fungus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:crimson_fungus"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.nether.crimson_fungus.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crimson_fungus"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.crimson_fungus.title"
+    }
+  },
+  "requirements": [
+    ["crimson_fungus"]
+  ]
+}

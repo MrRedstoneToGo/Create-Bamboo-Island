@@ -1,0 +1,45 @@
+{
+  "parent": "create_sky_additions:nether/biofuel",
+  "criteria": {
+    "super_heat": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["createaddition:liquid_blaze_burner"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["createaddition:bioethanol_bucket"]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.nether.super_heated.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:blaze_cake"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.super_heated.title"
+    }
+  },
+  "requirements": [
+    ["super_heat"]
+  ]
+}

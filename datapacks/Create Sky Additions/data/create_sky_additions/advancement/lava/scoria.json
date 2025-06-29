@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:lava/root",
+  "criteria": {
+    "scoria": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:scoria"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.lava.scoria.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:scoria"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.lava.scoria.title"
+    }
+  },
+  "requirements": [
+    ["scoria"]
+  ]
+}

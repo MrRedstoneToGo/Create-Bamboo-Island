@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:husbandry/obtain_sniffer_egg",
+  "criteria": {
+    "pig_spawn_egg": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:pig_spawn_egg"]
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.water_fishing.pig.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:pig_spawn_egg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.water_fishing.pig.title"
+    }
+  },
+  "requirements": [
+    ["pig_spawn_egg"]
+  ]
+}

@@ -8,8 +8,8 @@
     "S": {
       "item": "create:shadow_steel_casing"
     },
-    "E": {
-      "item": "minecraft:echo_shard"
+    "C": {
+      "item": "minecraft:heavy_core"
     },
     "e": {
       "item": "minecraft:end_stone"
@@ -17,7 +17,7 @@
   },
   "pattern": [
     "DSD",
-    "DED",
+    "DCD",
     "eee"
   ],
   "result": {

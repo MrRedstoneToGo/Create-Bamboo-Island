@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:nether/crimson_fungus",
+  "criteria": {
+    "nether_wart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:nether_wart"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.nether.nether_wart.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:nether_wart"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.nether_wart.title"
+    }
+  },
+  "requirements": [
+    ["nether_wart"]
+  ]
+}

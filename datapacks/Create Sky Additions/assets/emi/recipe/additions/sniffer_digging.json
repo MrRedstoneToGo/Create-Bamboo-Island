@@ -17,7 +17,8 @@
     "item:minecraft:rabbit_spawn_egg",
     "item:minecraft:sheep_spawn_egg",
     "item:minecraft:wolf_spawn_egg",
-    "item:minecraft:goat_spawn_egg"
+    "item:minecraft:goat_spawn_egg",
+    "item:minecraft:armadillo_spawn_egg"
   ],
   "text": "emi.info.sniffer_digging"
 }

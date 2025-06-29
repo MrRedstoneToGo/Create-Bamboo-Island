@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:nether/fire_charge",
+  "criteria": {
+    "blaze_spawn_egg": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create_sky_additions:crafting/blaze_spawn_egg"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.blaze_spawn_egg.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:blaze_spawn_egg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.blaze_spawn_egg.title"
+    }
+  },
+  "requirements": [
+    ["blaze_spawn_egg"]
+  ]
+}

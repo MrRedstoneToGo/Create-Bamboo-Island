@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:lava/root",
+  "criteria": {
+    "basalt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:basalt"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.lava.basalt.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:basalt"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.lava.basalt.title"
+    }
+  },
+  "requirements": [
+    ["basalt"]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:water_fishing/root",
+  "criteria": {
+    "dough": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "c:dough"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.water_fishing.dough.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:dough"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.water_fishing.dough.title"
+    }
+  },
+  "requirements": [
+    ["dough"]
+  ]
+}

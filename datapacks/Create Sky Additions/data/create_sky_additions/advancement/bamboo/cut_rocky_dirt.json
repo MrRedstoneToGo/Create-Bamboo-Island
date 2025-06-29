@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:bamboo/saline_compost",
+  "criteria": {
+    "flint": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:flint"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.bamboo.cut_rocky_dirt.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "decorative_blocks:rocky_dirt"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bamboo.cut_rocky_dirt.title"
+    }
+  },
+  "requirements": [
+    ["flint"]
+  ]
+}

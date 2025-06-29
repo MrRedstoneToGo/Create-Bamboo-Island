@@ -1,0 +1,34 @@
+{
+  "parent": "create:mechanical_press",
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:ice"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["ice"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.andesite_alloy.ice.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:ice"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.andesite_alloy.ice.title"
+    }
+  }
+}

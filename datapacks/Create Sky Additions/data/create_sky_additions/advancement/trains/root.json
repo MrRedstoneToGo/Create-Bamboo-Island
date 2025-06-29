@@ -1,0 +1,34 @@
+  {
+  "criteria": {
+    "sturdy_sheet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:sturdy_sheet"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["sturdy_sheet"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/trains.png",
+    "description": {
+      "translate": "advancements.trains.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:sturdy_sheet"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.trains.root.title"
+    }
+  }
+}

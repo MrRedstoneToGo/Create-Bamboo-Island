@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:brass/tuff",
+  "criteria": {
+    "ochrum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:ochrum"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.brass.ochrum.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:crushed_raw_gold"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.brass.ochrum.title"
+    }
+  },
+  "requirements": [
+    ["ochrum"]
+  ]
+}

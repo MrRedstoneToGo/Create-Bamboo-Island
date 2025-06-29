@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:nether/distract_piglin",
+  "criteria": {
+    "fire_charge": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "item": {
+          "items": "minecraft:fire_charge"
+        },
+        "entity": {
+          "type": "minecraft:piglin"
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.nether.fire_charge.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fire_charge"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.fire_charge.title"
+    }
+  },
+  "requirements": [
+    ["fire_charge"]
+  ]
+}

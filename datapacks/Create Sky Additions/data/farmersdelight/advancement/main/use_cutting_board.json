@@ -1,0 +1,27 @@
+{
+  "parent": "create_sky_additions:bamboo/crafting_table",
+  "criteria": {
+    "cutting_board": {
+      "trigger": "farmersdelight:use_cutting_board"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "farmersdelight.advancement.use_cutting_board.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "farmersdelight:cutting_board"
+    },
+    "title": {
+      "translate": "farmersdelight.advancement.use_cutting_board"
+    }
+  },
+  "requirements": [
+    [
+      "cutting_board"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

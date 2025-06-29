@@ -1,0 +1,45 @@
+{
+  "parent": "create_sky_additions:create_bamboo_island/blaze_powder",
+  "criteria": {
+    "grow_crimson": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:crimson_stem"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["minecraft:bone_meal"]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_island.grow_crimson_fungus.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crimson_fungus"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_island.grow_crimson_fungus.title"
+    }
+  },
+  "requirements": [
+    ["grow_crimson"]
+  ]
+}

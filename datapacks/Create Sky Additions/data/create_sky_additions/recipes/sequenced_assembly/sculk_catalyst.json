@@ -17,7 +17,7 @@
           "item": "minecraft:end_stone"
         },
         {
-          "amount": 60750,
+          "amount": 40500,
           "fluid": "create_enchantment_industry:ink",
           "nbt": {}
         }
@@ -35,7 +35,7 @@
           "item": "minecraft:end_stone"
         },
         {
-          "amount": 405,
+          "amount": 1620,
           "fluid": "create_enchantment_industry:experience",
           "nbt": {}
         }

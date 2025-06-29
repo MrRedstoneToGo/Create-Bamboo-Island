@@ -1,0 +1,34 @@
+{
+  "parent": "create:mechanical_press",
+  "criteria": {
+    "string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:string"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["string"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.andesite_alloy.roll_straw.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "createaddition:rolling_mill"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.andesite_alloy.roll_straw.title"
+    }
+  }
+}

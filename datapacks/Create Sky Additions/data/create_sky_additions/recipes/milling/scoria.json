@@ -7,11 +7,11 @@
   ],
   "results": [
     {
-      "item": "supplementaries:ash",
+      "item": "create:copper_nugget",
       "count": 2
     },
     {
-      "item": "supplementaries:ash",
+      "item": "create:copper_nugget",
       "chance": 0.5
     },
     {

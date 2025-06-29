@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create:spout",
+  "criteria": {
+    "gunpowder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:gunpowder"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.copper.gunpowder.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:gunpowder"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.copper.gunpowder.title"
+    }
+  },
+  "requirements": [
+    ["gunpowder"]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "create_sky_additions:water_fishing/root",
+  "criteria": {
+    "kelp": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:kelp"]
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.water_fishing.kelp.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:kelp"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.water_fishing.kelp.title"
+    }
+  },
+  "requirements": [
+    ["kelp"]
+  ]
+}

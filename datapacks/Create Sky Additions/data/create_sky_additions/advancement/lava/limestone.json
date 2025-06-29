@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:lava/root",
+  "criteria": {
+    "limestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:limestone"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.lava.limestone.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:limestone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.lava.limestone.title"
+    }
+  },
+  "requirements": [
+    ["limestone"]
+  ]
+}

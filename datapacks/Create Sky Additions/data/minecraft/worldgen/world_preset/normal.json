@@ -8,10 +8,8 @@
           "biome": "minecraft:bamboo_jungle",
           "features": false,
           "lakes": false,
-          "layers": [
-          ],
-          "structure_overrides": [
-          ]
+          "layers": [],
+          "structure_overrides": []
         }
       }
     },
@@ -33,10 +31,8 @@
           "biome": "minecraft:nether_wastes",
           "features": false,
           "lakes": false,
-          "layers": [
-          ],
-          "structure_overrides": [
-          ]
+          "layers": [],
+          "structure_overrides": []
         }
       }
     }

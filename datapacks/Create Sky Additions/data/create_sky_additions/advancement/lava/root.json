@@ -1,0 +1,34 @@
+  {
+  "criteria": {
+    "lava_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:lava_bucket"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["lava_bucket"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/lava.png",
+    "description": {
+      "translate": "advancements.lava.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:lava_bucket"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.lava.root.title"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "andesite_alloy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:andesite_alloy"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["andesite_alloy"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/andesite_alloy.png",
+    "description": {
+      "translate": "advancements.andesite_alloy.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.andesite_alloy.root.title"
+    }
+  }
+}

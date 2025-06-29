@@ -1,0 +1,9 @@
+{
+  "type":"createaddition:rolling",
+  "input": {
+    "item": "farmersdelight:straw"
+  },
+  "result": {
+    "item": "minecraft:string"
+  }
+}
