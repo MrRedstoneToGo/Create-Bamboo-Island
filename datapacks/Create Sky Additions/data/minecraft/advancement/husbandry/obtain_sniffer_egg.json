@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:water_fishing/root",
+  "parent": "minecraft:husbandry/fishy_business",
   "criteria": {
     "obtain_sniffer_egg": {
       "conditions": {
@@ -13,12 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.obtain_sniffer_egg.description"
     },
-    "hidden": true,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:sniffer_egg"
     },
     "title": {

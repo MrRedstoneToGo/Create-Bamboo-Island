@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:husbandry/fishy_business",
+  "criteria": {
+    "place_fishing_net": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "create_integrated_farming:fishing_net",
+                "state": {
+                  "waterlogged": "true"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["place_fishing_net"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.water_fishing.place_fishing_net.description"
+    },
+    "icon": {
+      "id": "farmersdelight:safety_net",
+      "nbt": "{echantments: {luck_of_the_sea: 2}}"
+    },
+    "title": {
+      "translate": "advancements.water_fishing.place_fishing_net.title"
+    }
+  }
+}

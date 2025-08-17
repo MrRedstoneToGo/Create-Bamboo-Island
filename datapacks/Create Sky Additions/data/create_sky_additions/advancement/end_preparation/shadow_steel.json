@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:end_preparation/root",
+  "criteria": {
+    "shadow_steel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:shadow_steel"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.end_preparation.shadow_steel.description"
+    },
+    "icon": {
+      "id": "create:shadow_steel"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.shadow_steel.title"
+    }
+  },
+  "requirements": [
+    ["shadow_steel"]
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "parent": "create:deployer",
+  "parent": "create:cart_pickup",
   "criteria": {
     "0": {
       "trigger": "create:self_deploying_builtin"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.self_deploying.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:rail"
     },
     "title": {

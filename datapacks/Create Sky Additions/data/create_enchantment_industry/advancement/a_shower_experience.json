@@ -1,20 +1,20 @@
 {
-  "parent": "create_enchantment_industry:spiritual_return",
+  "parent": "create:water_supply",
   "criteria": {
     "0": {
       "trigger": "create_enchantment_industry:a_shower_experience"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.a_shower_experience.desc"
     },
     "frame": "goal",
     "hidden": true,
     "icon": {
-      "count": 1,
-      "id": "create:experience_nugget"
+      "id": "minecraft:experience_bottle"
     },
     "title": {
       "translate": "advancement.create_enchantment_industry.a_shower_experience"

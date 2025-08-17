@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:bamboo/cut_coarse_dirt",
+  "criteria": {
+    "rocky_dirt": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:coarse_dirt"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.coarse_dirt_from_gravel.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
+    },
+    "icon": {
+      "id": "minecraft:coarse_dirt"
+    },
+    "title": {
+      "translate": "advancements.bamboo.coarse_dirt_from_gravel.title"
+    }
+  },
+  "requirements": [
+    ["rocky_dirt"]
+  ]
+}

@@ -22,18 +22,17 @@
       },
       "\n",
       {
+        "color": "#87CEFA",
         "translate": "advancements.bamboo.bamboo_planks.description.tip",
         "with": [
           [
-            "\n",
-            {"text": "- ", "bold": true, "color": "red"},
+            "\n- ",
             {"translate": "advancements.bamboo.bamboo_planks.description.left_click", "bold": true, "color": "red"}
           ],
           {"text": "R", "bold": true, "color": "red"},
           {"translate": "advancements.bamboo.bamboo_planks.description.recipes", "bold": true, "color": "blue"},
           [
-            "\n",
-            {"text": "- ", "bold": true, "color": "red"},
+            "\n- ",
             {"translate": "advancements.bamboo.bamboo_planks.description.right_click", "bold": true, "color": "red"}
           ],
           {"text": "U", "bold": true, "color": "red"},
@@ -41,13 +40,9 @@
         ]
       }
     ],
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:bamboo_planks"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bamboo.bamboo_planks.title"
     }

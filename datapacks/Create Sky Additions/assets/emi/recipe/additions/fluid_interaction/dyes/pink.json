@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:create_dragons_plus:pink_dye",
+  "right": "fluid:minecraft:lava",
+  "output": "item:minecraft:pink_concrete"
+}

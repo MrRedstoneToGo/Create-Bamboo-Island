@@ -1,12 +1,12 @@
 {
-  "parent": "create_sky_additions:create:spout",
+  "parent": "create_sky_additions:copper/harming_potion",
   "criteria": {
     "gunpowder": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:gunpowder"]
+            "items": "minecraft:gunpowder"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.copper.gunpowder.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:gunpowder"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.copper.gunpowder.title"
     }

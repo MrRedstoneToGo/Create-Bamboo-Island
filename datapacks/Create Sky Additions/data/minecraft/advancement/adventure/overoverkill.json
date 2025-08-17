@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:brass/heavy_core",
+  "parent": "create_sky_additions:end_preparation/heavy_core",
   "criteria": {
     "overoverkill": {
       "conditions": {
@@ -29,12 +29,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.overoverkill.description"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:mace"
     },
     "title": {
@@ -46,8 +46,5 @@
       "overoverkill"
     ]
   ],
-  "rewards": {
-    "experience": 50
-  },
   "sends_telemetry_event": true
 }

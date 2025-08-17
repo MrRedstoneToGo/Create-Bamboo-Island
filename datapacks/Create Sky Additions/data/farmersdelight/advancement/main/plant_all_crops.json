@@ -212,12 +212,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
+      "color": "#228B22",
       "translate": "farmersdelight.advancement.plant_all_crops.desc"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "farmersdelight:cabbage"
     },
     "title": {
@@ -283,8 +284,5 @@
       "glow_berries"
     ]
   ],
-  "rewards": {
-    "experience": 100
-  },
   "sends_telemetry_event": true
 }

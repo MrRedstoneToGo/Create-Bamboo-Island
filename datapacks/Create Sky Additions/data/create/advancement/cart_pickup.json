@@ -1,18 +1,18 @@
 {
-  "parent": "create:pulley_maxed",
+  "parent": "create:deployer",
   "criteria": {
     "0": {
       "trigger": "create:cart_pickup_builtin"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.cart_pickup.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:chest_minecart_contraption"
     },
     "title": {

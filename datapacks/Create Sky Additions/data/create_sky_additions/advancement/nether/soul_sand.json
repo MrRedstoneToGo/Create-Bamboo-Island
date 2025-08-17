@@ -16,15 +16,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.nether.soul_sand.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
-      "id": "minecraft:soul_sand"
+      "id": "minecraft:soul_campfire"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.nether.soul_sand.title"
     }

@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:bamboo/compost",
+  "criteria": {
+    "coarse_dirt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gravel"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.cut_coarse_dirt.description"
+    },
+    "icon": {
+      "id": "minecraft:dirt"
+    },
+    "title": {
+      "translate": "advancements.bamboo.cut_coarse_dirt.title"
+    }
+  },
+  "requirements": [
+    ["coarse_dirt"]
+  ]
+}

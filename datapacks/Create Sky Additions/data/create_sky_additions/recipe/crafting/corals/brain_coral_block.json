@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:brain_coral"
+    }
+  },
+  "pattern": [
+    "c"
+  ],
+  "result": {
+    "id": "minecraft:brain_coral_block"
+  },
+  "show_notification": true 
+}

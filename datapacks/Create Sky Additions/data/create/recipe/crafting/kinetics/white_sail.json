@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:sail_frame"
+    },
+    {
+      "item": "immersive_aircraft:sail"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:white_sail"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:basalt"]
+            "items": "minecraft:basalt"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.lava.basalt.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:basalt"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.lava.basalt.title"
     }

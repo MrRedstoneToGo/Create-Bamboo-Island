@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:tuff"
+  },
+  "result": {
+    "id": "create:ochrum"
+  },
+  "experience": 0.0,
+  "cookingtime": 600
+}

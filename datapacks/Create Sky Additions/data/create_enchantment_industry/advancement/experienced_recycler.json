@@ -13,13 +13,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.experienced_recycler.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create_enchantment_industry:grindstone_drain"
     },
     "title": {

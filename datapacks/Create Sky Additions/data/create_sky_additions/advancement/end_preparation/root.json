@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["create:chromatic_compound"]
+            "items": "create:chromatic_compound"
           }
         ]
       }
@@ -18,12 +18,10 @@
     "announce_to_chat": false,
     "background": "create_sky_additions:textures/gui/advancements/backgrounds/end_preparation.png",
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.end_preparation.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "create:chromatic_compound"
     },
     "show_toast": false,

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "CBS",
+    "CFC"
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:blackstone"
+      }
+    ],
+    "B": [
+      {
+        "item": "immersive_aircraft:boiler"
+      }
+    ],
+    "F": [
+      {
+        "item": "create:blaze_burner"
+      }
+    ],
+    "S": [
+      {
+        "item": "create:shaft"
+      }
+    ]
+  },
+  "result": {
+    "id": "immersive_aircraft:nether_engine"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether:obtain_ancient_debris",
+  "parent": "minecraft:nether/obtain_ancient_debris",
   "criteria": {
     "obtain_netherite_knife": {
       "conditions": {
@@ -13,12 +13,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
+      "color": "#228B22",
       "translate": "farmersdelight.advancement.obtain_netherite_knife.desc"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "farmersdelight:netherite_knife"
     },
     "title": {
@@ -30,8 +31,5 @@
       "obtain_netherite_knife"
     ]
   ],
-  "rewards": {
-    "experience": 200
-  },
   "sends_telemetry_event": true
 }

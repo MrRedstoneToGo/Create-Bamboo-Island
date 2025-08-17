@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:copper/biplane",
+  "criteria": {
+    "quadrocopter": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "type": "immersive_aircraft:quadrocopter"
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.copper.quadrocopter.description"
+    },
+    "icon": {
+      "id": "immersive_aircraft:quadrocopter"
+    },
+    "title": {
+      "translate": "advancements.copper.quadrocopter.title"
+    }
+  },
+  "requirements": [
+    ["quadrocopter"]
+  ]
+}

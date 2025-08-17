@@ -1,0 +1,24 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:lily_pad{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8%\", color: gold, italic: false}]']}",
+    "item:minecraft:leather_boots{damage: 32, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:minecraft:leather{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:minecraft:bone{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 7%\", color: gold, italic: false}]']}",
+    "item:minecraft:potion{potion_contents: {potion: \"minecraft:water\"}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 6%\", color: gold, italic: false}]']}",
+    "item:minecraft:string{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 3%\", color: gold, italic: false}]']}",
+    "item:minecraft:fishing_rod{damage: 32, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1%\", color: gold, italic: false}]']}",
+    "item:minecraft:bowl{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 4%\", color: gold, italic: false}]']}",
+    "item:minecraft:stick{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 6%\", color: gold, italic: false}]']}",
+    "item:minecraft:ink_sac{lore: ['{text: \"x10\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1%\", color: gold, italic: false}]']}",
+    "item:minecraft:tripwire_hook{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:minecraft:rotten_flesh{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:farmersdelight:rice_panicle{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 6%\", color: gold, italic: false}]']}",
+    "item:minecraft:sugar_cane{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:minecraft:kelp{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 20%\", color: gold, italic: false}]']}",
+    "item:minecraft:frogspawn{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 3%\", color: gold, italic: false}]']}",
+    "item:minecraft:small_dripleaf{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}",
+    "item:minecraft:bamboo{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 5%\", color: gold, italic: false}]']}"
+  ],
+  "text": "emi.info.fishing_junk"
+}

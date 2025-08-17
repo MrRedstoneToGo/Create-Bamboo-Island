@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:end_preparation/shadow_steel",
+  "criteria": {
+    "heavy_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:heavy_core"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.end_preparation.heavy_core.description"
+    },
+    "icon": {
+      "id": "minecraft:heavy_core"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.heavy_core.title"
+    }
+  },
+  "requirements": [
+    ["heavy_core"]
+  ]
+}

@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["create:limestone"]
+            "items": "create:limestone"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.lava.limestone.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "create:limestone"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.lava.limestone.title"
     }

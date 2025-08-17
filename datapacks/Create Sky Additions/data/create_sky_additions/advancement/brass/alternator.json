@@ -1,0 +1,36 @@
+{
+  "parent": "create:mechanical_crafter",
+  "criteria": {
+    "alternator": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "createaddition:alternator"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.brass.alternator.description"
+    },
+    "icon": {
+      "id": "createaddition:alternator"
+    },
+    "title": {
+      "translate": "advancements.brass.alternator.title"
+    }
+  },
+  "requirements": [
+    ["alternator"]
+  ]
+}

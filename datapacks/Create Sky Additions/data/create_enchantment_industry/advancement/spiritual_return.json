@@ -8,12 +8,11 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.spiritual_return.desc"
     },
     "icon": {
-      "count": 1,
-      "id": "create:experience_nugget"
+      "id": "minecraft:experience_bottle"
     },
     "title": {
       "translate": "advancement.create_enchantment_industry.spiritual_return"

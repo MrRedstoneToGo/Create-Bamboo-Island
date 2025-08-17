@@ -1,0 +1,33 @@
+{
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "createframed:purple_cardboard_block"
+    },
+    "title": {
+      "translate": "advancement.createframed.dyed_cardboard_block.title"
+    },
+    "description": {
+      "color": "#EEFF1B",
+      "translate": "advancement.createframed.dyed_cardboard_block.description"
+    }
+  },
+  "parent": "create:cardboard",
+  "criteria": {
+    "has_dyed_cardboard_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#createframed:dyed_cardboard_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_dyed_cardboard_block"
+    ]
+  ]
+}

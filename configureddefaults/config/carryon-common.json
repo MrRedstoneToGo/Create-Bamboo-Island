@@ -26,9 +26,7 @@
       "create:*",
       "createaddition:*",
       "create_enchantment_industry:*",
-      "farmersdelight:stove",
-      "railways:*",
-      "sliceanddice:*",
+      "farmersdelight:stove"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

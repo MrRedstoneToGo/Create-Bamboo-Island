@@ -6,6 +6,7 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.lava_wheel_00000.desc"
@@ -13,7 +14,6 @@
     "frame": "goal",
     "hidden": true,
     "icon": {
-      "count": 1,
       "id": "create:water_wheel"
     },
     "title": {

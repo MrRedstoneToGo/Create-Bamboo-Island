@@ -1,0 +1,13 @@
+{
+  "type":"createaddition:rolling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:straw"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:string"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:propeller"
+    },
+    {
+      "item": "create:copper_sheet"
+    }
+  ],
+  "results": [
+    {
+      "id": "immersive_aircraft:enhanced_propeller"
+    }
+  ]
+}

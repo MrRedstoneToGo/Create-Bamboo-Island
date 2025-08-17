@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "jump": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "distance": {
+          "y": {
+            "min": 1
+          }
+        },
+        "player": {
+          "location": {
+            "block": {
+              "blocks": "minecraft:sculk_shrieker",
+              "state": {
+                "can_summon": false
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["jump"]
+  ],
+  "rewards": {
+    "function": "create_sky_additions:jumped_on_sculk_shrieker"
+  }
+}

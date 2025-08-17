@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "CBS",
+    "CFC"
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "B": [
+      {
+        "item": "immersive_aircraft:boiler"
+      }
+    ],
+    "F": [
+      {
+        "item": "minecraft:furnace"
+      }
+    ],
+    "S": [
+      {
+        "item": "create:shaft"
+      }
+    ]
+  },
+  "result": {
+    "id": "immersive_aircraft:eco_engine"
+  }
+}

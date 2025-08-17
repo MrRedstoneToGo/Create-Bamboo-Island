@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:adventure/root",
+  "parent": "create_sky_additions:copper/redstone",
   "criteria": {
     "crafter_crafted_crafter": {
       "conditions": {
@@ -9,11 +9,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.crafters_crafting_crafters.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:crafter"
     },
     "title": {

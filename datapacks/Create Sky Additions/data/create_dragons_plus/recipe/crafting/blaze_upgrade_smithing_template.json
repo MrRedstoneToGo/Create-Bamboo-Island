@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    },
+    "S": {
+      "item": "create:sturdy_sheet"
+    },
+    "b": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "#b#",
+    "bSb",
+    "#b#"
+  ],
+  "result": {
+    "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

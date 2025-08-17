@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/obtain_anmcient_debris",
+  "parent": "minecraft:nether/obtain_ancient_debris",
   "criteria": {
     "netherite_hoe": {
       "conditions": {
@@ -13,12 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.netherite_hoe.description"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:netherite_hoe"
     },
     "title": {
@@ -30,8 +30,5 @@
       "netherite_hoe"
     ]
   ],
-  "rewards": {
-    "experience": 100
-  },
   "sends_telemetry_event": true
 }

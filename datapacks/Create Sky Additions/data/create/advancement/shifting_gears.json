@@ -1,5 +1,5 @@
 {
-  "parent": "create:hand_crank_000",
+  "parent": "create_sky_additions:andesite_alloy/root",
   "criteria": {
     "0": {
       "trigger": "create:shifting_gears_builtin"
@@ -12,7 +12,6 @@
       "translate": "advancement.create.shifting_gears.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:cogwheel"
     },
     "title": {

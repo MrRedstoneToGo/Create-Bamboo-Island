@@ -1,132 +1,229 @@
 {
   "advancements.create_bamboo_island.word_tip": "Tip",
-  
-  "advancements.create_bamboo_island.amethyst.title": "Polished Quartz",
-  "advancements.create_bamboo_island.amethyst.description": "Polish Nether Quartz. As soon as you have a few Amethysts together, you can also create a Budding Amethyst Block and harvest Amethysts from it.",
-  
-  "advancements.create_bamboo_island.ash.title": "Remnants Of the Bushfire",
-  "advancements.create_bamboo_island.ash.description": "Burn down some wood in order to get Ash.",
-  
-  "advancements.create_bamboo_island.bamboo_planks.title": "Skip the logs",
-  "advancements.create_bamboo_island.bamboo_planks.description.info": "Bamboo Planks can now be crafted in the 2x2 slot in your inventory.",
-  "advancements.create_bamboo_island.bamboo_planks.description.important": "Important! The following is essential for the rest of the game.",
-  "advancements.create_bamboo_island.bamboo_planks.description.tip": "Hover over an item and either %s or press %s to display its %s or %s or press %s to display its %s.",
-  "advancements.create_bamboo_island.bamboo_planks.description.left_click": "Left Click",
-  "advancements.create_bamboo_island.bamboo_planks.description.right_click": "Right Click",
-  "advancements.create_bamboo_island.bamboo_planks.description.recipes": "recipes",
-  "advancements.create_bamboo_island.bamboo_planks.description.uses": "uses",
-  
-  "advancements.create_bamboo_island.blaze_powder.title": "Smells Like a Fortress",
-  "advancements.create_bamboo_island.blaze_powder.description": "Blazes left some Rods on the ground which decayed over time. You are now able to find these remnants in Nether Bricks.",
-  
-  "advancements.create_bamboo_island.chromatic_compound.title": "Chromatic Return",
-  "advancements.create_bamboo_island.chromatic_compound.description": "Bring back the old days of Create.",
-  
-  "advancements.create_bamboo_island.compost.title": "Back To the Nature",
-  "advancements.create_bamboo_island.compost.description": "Compost Straw from stripping Bamboo Blocks on a Cutting Board and cut your fresh compost with any shovel.%sPut the item to cut in your off hand and the tool in your main hand and hold right click! By the way, Bamboo can be mined instantly with a sword.",
-  
-  "advancements.create_bamboo_island.copper_nugget.title": "Broken Prismarine",
-  "advancements.create_bamboo_island.copper_nugget.description": "Wash Prismarine Shards to discover, what Guardians actually protect.",
-  
-  "advancements.create_bamboo_island.crushing_wheel.title": "Wheels Of Destruction",
-  "advancements.create_bamboo_island.crushing_wheel.description": "Until now, all you needed was a Millstone, but some recipes require a little more pressure.",
-  
-  "advancements.create_bamboo_island.empty_blaze_burner.title": "Blaze Cage",
-  "advancements.create_bamboo_island.empty_blaze_burner.description": "Craft a home for your future hot friend.",
-  
-  "advancements.create_bamboo_island.end_portal_frame.title": "Let's Build the Portal",
-  "advancements.create_bamboo_island.end_portal_frame.description": "With the power of Chromatic Compound, you are now ready to build the portal to the third dimension and defeat the Ender Dragon to play through this pack (thanks for playing, leave some feedback on GitHub).",
-  
-  "advancements.create_bamboo_island.flax.title": "First Fiber",
-  "advancements.create_bamboo_island.flax.description": "Turn the Straw or Wheat in Packed Mud into Flax by washing it.",
-  
-  "advancements.create_bamboo_island.flint.title": "Pebbles",
-  "advancements.create_bamboo_island.flint.description": "Cut Rocky Dirt to get some first Flint.",
-  
-  "advancements.create_bamboo_island.gold_nugget.title": "Stolen From the Enemies",
-  "advancements.create_bamboo_island.gold_nugget.description": "Kill some Zombified Piglins and sell their gold to Piglins. Make sure to avoid misunderstandings because of your non-gold clothes.",
-  
-  "advancements.create_bamboo_island.green_dye.title": "Chlorophyl",
-  "advancements.create_bamboo_island.green_dye.description": "Extract the green leaf dye from Fern.%sFern grows, among other plants, when you fertilize a Grass Block.",
-  
-  "advancements.create_bamboo_island.grow_crimson_fungus.title": "Haunted Harvest",
-  "advancements.create_bamboo_island.grow_crimson_fungus.description": "Cut the mushrooms off a Red Mooshroom, haunt them and finally grow them up.",
 
-  "advancements.create_bamboo_island.honey.title": "Buzzy Trees",
-  "advancements.create_bamboo_island.honey.description": "Let a few Bees move into a Cherry Tree and collect Honey from them.%sYou can get Glass Bottles by drinking empty Water Bottles.",
-  
-  "advancements.create_bamboo_island.ice.title": "A New Aggregat",
-  "advancements.create_bamboo_island.ice.description": "Build yourself up to at least level 210, collect a few snowballs and compact everything into ice.",
-  
-  "advancements.create_bamboo_island.iron_nugget.title": "Acquire Nuggets",
-  "advancements.create_bamboo_island.iron_nugget.description": "Find some iron in Rocky Dirt.",
-  
-  "advancements.create_bamboo_island.jetpack.title": "Pressured Air Is the Limit!",
-  "advancements.create_bamboo_island.jetpack.description": "Make yourself something to fly ... and this is not an Elytra.",
-  
-  "advancements.create_bamboo_island.kelp.title": "Conveyor Kelp",
-  "advancements.create_bamboo_island.kelp.description": "Fish the ressource that provides many new ways to move items.",
-  
-  "advancements.create_bamboo_island.kill_warden.title": "Warden's Heart",
-  "advancements.create_bamboo_island.kill_warden.description": "Kill the Warden to retrieve the Crystal that brought him back to life.",
-  
-  "advancements.create_bamboo_island.kill_wither.title": "Wither's Heart",
-  "advancements.create_bamboo_island.kill_wither.description": "Kill the Nether Boss to discover the real power of the Nether.",
-  
-  "advancements.create_bamboo_island.lapis_lazuli.title": "Enchanting Powder",
-  "advancements.create_bamboo_island.lapis_lazuli.description": "Mill some Calcite and you'll get this enchanting dust.",
-  
-  "advancements.create_bamboo_island.lava.description": "Fill your bucket with 20 super-heated Cobblestones.",
-  
-  "advancements.create_bamboo_island.limestone.title": "Chemical Reactions",
-  "advancements.create_bamboo_island.limestone.description": "Let Honey and Lava (See advancement line with nether stuff) flow into each other.",
-  
-  "advancements.create_bamboo_island.magma_block.title": "Blazing Stone",
-  "advancements.create_bamboo_island.magma_block.description": "Obtain the material that opens the door to the Nether when washed.",
-  
-  "advancements.create_bamboo_island.mechanical_crafter.title": "Are You Still Crafting MANUALLY?",
-  "advancements.create_bamboo_island.mechanical_crafter.description": "Craft those Crafters which will automatically craft Crafters later on.",
-  
-  "advancements.create_bamboo_island.netherite_ingot.title": "Isn't It Netherite Time?",
-  "advancements.create_bamboo_island.netherite_ingot.description": "Take a bunch of Sturdy Sheets (32 exactly) and subject them to a large assembly until you have your first Netherite Ingot.",
+  "advancements.andesite_alloy.ice.title": "A new Aggregat",
+  "advancements.andesite_alloy.ice.description": "Compact some of your snow to obtain solid water",
 
-  "advancements.create_bamboo_island.redstone.title": "Power Flour",
-  "advancements.create_bamboo_island.redstone.description": "Mix a Strength Potion with the Nether Warts from their blocks and spout it onto some Cinder Flour.",
+  "advancements.andesite_alloy.roll_straw.title": "First Fiber",
+  "advancements.andesite_alloy.roll_straw.description": "Roll out your straw into a long thread",
+
+
+  "advancements.bamboo.aircraft_upgrade.title": "Improved Technics",
+  "advancements.bamboo.aircraft_upgrade.description": "Upgrade your aircraft power",
+
+  "advancements.bamboo.aircraft_weapons.title": "Air Force",
+  "advancements.bamboo.aircraft_weapons.description": "Attach a weapon to your aircraft",
+
+  "advancements.bamboo.bamboo_planks.title": "Skip the Logs",
+  "advancements.bamboo.bamboo_planks.description.info": "Bamboo Planks can now be crafted in the 2x2 slot in your inventory.",
+  "advancements.bamboo.bamboo_planks.description.important": "Important! The following is essential for the rest of the game.",
+  "advancements.bamboo.bamboo_planks.description.tip": "Hover over an item and either %s or press %s to display its %s or %s or press %s to display its %s.",
+  "advancements.bamboo.bamboo_planks.description.left_click": "Left Click",
+  "advancements.bamboo.bamboo_planks.description.right_click": "Right Click",
+  "advancements.bamboo.bamboo_planks.description.recipes": "recipes",
+  "advancements.bamboo.bamboo_planks.description.uses": "uses",
+
+  "advancements.bamboo.coarse_dirt_from_gravel.title": "Made of Itself",
+  "advancements.bamboo.coarse_dirt_from_gravel.description": "Craft Coarse Dirt with the Gravel you just got from cutting... and with a little hoing and cutting, you'll have duplicated your dirt. Yay!%sFor automation, after washing the coarse dirt, you can simply return the results to the mixing basin via a funnel on the side (!). The profit passes by the funnel and can be further processed behind it.",
+
+  "advancements.bamboo.cocoa_beans.title": "Buy me a Cocoa",
+  "advancements.bamboo.cocoa_beans.description": "not really, just harvest some Cocoa Beans from a small Jungle Tree",
+
+  "advancements.bamboo.collect_snow.title": "Prepare for a Snowball Fight!",
+  "advancements.bamboo.collect_snow.description": "Collect fresh Snow at least at an altitude of 210, but pay attention to the Phantoms",
+
+  "advancements.bamboo.compost.title": "Back to Nature",
+  "advancements.bamboo.compost.description": "Throw the bark back into a Composter",
+
+  "advancements.bamboo.cut_coarse_dirt.title": "Pebbles",
+  "advancements.bamboo.cut_coarse_dirt.description": "Compress and decompress (cut) dirt",
+
+  "advancements.bamboo.fern.title": "Chlorophyl",
+  "advancements.bamboo.fern.description": "Cut some Ferns from the grass because they contain a lot of Green Dye, as you'll notice later",
+
+  "advancements.bamboo.flower.title": "Colorful Beauty",
+  "advancements.bamboo.flower.description": "Take a flower for your beloved... or something like that.",
+
+  "advancements.bamboo.grow_azalea.title": "Is there a Lush Cave anywhere?",
+  "advancements.bamboo.grow_azalea.description": "Grow a Mangrove Tree, compact its moss and grow an Azalea on it",
+
+  "advancements.bamboo.grow_cherry_tree.title": "Buzzy Trees",
+  "advancements.bamboo.grow_cherry_tree.description": "Bees love to move into it, so you might find a Bee Nest",
+
+  "advancements.bamboo.gyrodyne.title": "Manual Aircraft",
+  "advancements.bamboo.gyrodyne.description": "Build a Gyrodyne and fly away with it",
+
+  "advancements.bamboo.harvest_straw.description": "Cut the bark off a Bamboo Block%sPut the item to cut in your off hand and the tool in your main hand and hold right click! By the way, Bamboo can be mined instantly with a sword.",
+
+  "advancements.bamboo.iron_nugget.title": "Acquire Nuggets",
+  "advancements.bamboo.iron_nugget.description": "For some reason, there's also some iron among the gravel",
+
+  "advancements.bamboo.root.title": "Create: Bamboo Island",
+  "advancements.bamboo.root.description": "Welcome to my Skyblock modpack! Unlike many other Skyblock maps, this time you have to deal with one Grass Block (which does not respawn), a Bamboo Shoot planted on it... and the CREATE mod. To go through all this stuff, my self-made advancement guide (%s to view) will guide you, with the ultimate goal of defeating the Ender Dragon, although you can continue playing. Good Luck!",
+  "advancements.bamboo.root.description.press_l": "press L",
+
+  "advancements.bamboo.use_bone_meal_on_grass_block.title": "Biodiversity",
+  "advancements.bamboo.use_bone_meal_on_grass_block.description": "Spread or grow some plants on a Grass Block",
+
+
+  "advancements.brass.alternator.title": "First Electric Current",
+  "advancements.brass.alternator.description": "Set up an Alternator to generate electricity",
+
+  "advancements.brass.chromatic_compound.title": "Chromatic Return",
+  "advancements.brass.chromatic_compound.description": "Bring back the old days of Create",
+
+  "advancements.brass.electrum_ingot.title": "Chargin' it up!",
+  "advancements.brass.electrum_ingot.description": "Infuse some Gold with electricity",
+
+
+  "advancements.copper.airship.title": "Is It an Air Baloon?",
+  "advancements.copper.airship.description": "Inflate your aircraft with air",
+
+  "advancements.copper.biplane.title": "Real Aircraft",
+  "advancements.copper.biplane.description": "Build your own wooden Biplane",
+
+  "advancements.copper.engine.title": "Compressed Steam",
+  "advancements.copper.engine.description": "Construct an Engine for your future aircraft",
+
+  "advancements.copper.glowstone_dust.title": "Glowing Cinder",
+  "advancements.copper.glowstone_dust.description": "Pour an illuminating potion onto Cinder Flour",
+
+  "advancements.copper.gunpowder.title": "It's Getting Explosive",
+  "advancements.copper.gunpowder.description": "This potion turns Cinder Flour into a pretty dangerous substance",
+
+  "advancements.copper.harming_potion.title": "A Toxic Liquid",
+  "advancements.copper.harming_potion.description": "We're brewing that just for science, ok?",
+
+  "advancements.copper.quadrocopter.title": "Better Than Scaffolding",
+  "advancements.copper.quadrocopter.description": "Build something on a building... this time from the air",
+
+  "advancements.copper.redstone.title": "Power Flour",
+  "advancements.copper.redstone.description": "Pour a strenghtening potion onto Cinder Flour",
+
+  "advancements.copper.spider_eye.title": "All-Round View",
+  "advancements.copper.spider_eye.description": "Strengthen a Nether Wart to obtain Spider Eyes",
+
+
+  "advancements.end_preparation.end_portal_frame.title": "Frame the End",
+  "advancements.end_preparation.end_portal_frame.description": "Craft an End Portal Frame. Make sure to stand within the portal area when placing the frames ;-)",
+
+  "advancements.end_preparation.heavy_core.title": "Singularity... almost",
+  "advancements.end_preparation.heavy_core.description": "Condense much Shadow Steel into one single heavy core",
+
+  "advancements.end_preparation.jump_on_sculk_shrieker.title": "Get Rid of the Fuse",
+  "advancements.end_preparation.jump_on_sculk_shrieker.description": "Jump on a Sculk Shrieker to enable it to spawn Wardens",
+  "advancements.end_preparation.kill_warden.title": "The Warden's Heart",
+  "advancements.end_preparation.kill_warden.description": "Kill the Warden to retrieve the Crystal that brought him back to life.",
+
+  "advancements.end_preparation.refined_radiance.title": "I'm Enlightened!",
+  "advancements.end_preparation.refined_radiance.description": "Throw Chromatic Compound into the Beam of a Beacon and watch the magic happen",
+
+  "advancements.end_preparation.reinforced_deepslate.title": "Enlightened Deep Rock",
+  "advancements.end_preparation.reinforced_deepslate.description": "Illumunate Deepslate mit Refined Radiance",
+
+  "advancements.end_preparation.root.title": "End Preparations",
+  "advancements.end_preparation.root.description": "... with a magic compound",
+
+  "advancements.end_preparation.shadow_steel.title": "Blackout",
+  "advancements.end_preparation.shadow_steel.description": "Throw Chromatic Compound into the void and watch the magic happen",
+
   
-  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.title": "Made Of Itself",
-  "advancements.create_bamboo_island.rocky_dirt_from_coarse_dirt.description": "Take some Flint, turn it into Gravel, combine it with the Dirt from Rocky Dirt cutting and create new Rocky Dirt.\nAnd with a bit magic of Skyblock, you'll be able to duplicate your Dirt.",
-    
-  "advancements.create_bamboo_island.root.title": "Create: Bamboo Island",
-  "advancements.create_bamboo_island.root.description": "Welcome to my Skyblock modpack! Unlike many other Skyblock maps, this time you have to deal with one Grass Block (which does not respawn), a Bamboo Shoot planted on it... and the CREATE mod. To go through all this stuff, my self-made advancement guide (%s to view) will guide you, with the ultimate goal of defeating the Ender Dragon, although you can continue playing. Good Luck!",
-  "advancements.create_bamboo_island.root.description.press_l": "press L",
-  
-  "advancements.create_bamboo_island.rose_quartz.title": "Flower Quartz",
-  "advancements.create_bamboo_island.rose_quartz.description": "Make the Piglins' Nether Quartz a bit rosy...",
-  
-  "advancements.create_bamboo_island.sculk_catalyst.title": "Catalysts",
-  "advancements.create_bamboo_island.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need to spread Sculk until a working Sculk Shrieker spawns. You then have to jump on it once so that it can also spawn Wardens.",
-  
-  "advancements.create_bamboo_island.slicer.title": "Automated Kitchenwork",
-  "advancements.create_bamboo_island.slicer.description": "Tired of cutting all the items by hand? Well, there is a solution: The Slicer!",
-  
-  "advancements.create_bamboo_island.slime_ball.title": "Sticky dough",
-  "advancements.create_bamboo_island.slime_ball.description": "Slime Balls are basically just lime Dough, right?",
-  
-  "advancements.create_bamboo_island.spawn_egg.title": "Looking For Home",
-  "advancements.create_bamboo_island.spawn_egg.description": "Let the Sniffer sniff for spawn eggs.",
-  
-  "advancements.create_bamboo_island.super_heated.title": "Renewable Fuel",
-  "advancements.create_bamboo_island.super_heated.description": "Give the blaze in the blaze burner a Straw and let it drink some Biofuel.",
-  
-  "advancements.create_bamboo_island.trident.title": "Big Fork",
-  "advancements.create_bamboo_island.trident.description": "Just craft it... It won't hurt anybody...",
-  
-  "advancements.create_bamboo_island.use_bonemeal_on_ground.title": "Colorful Flowers",
-  "advancements.create_bamboo_island.use_bonemeal_on_ground.description": "Spread Grass Blocks with Bonemeal or fertilize the Grass Block to let the Grass grow even more along some new plants.",
-  
-  "advancements.create_bamboo_island.zinc_nugget.title": "Drip Drip Drip",
-  "advancements.create_bamboo_island.zinc_nugget.description": "Mill Dripstone Blocks to to get what has settled when the water seeps through.",
-  
+  "advancements.lava.asurine.title": "Blue Tuff",
+  "advancements.lava.asurine.description": "Wash Tuff to increase the zinc concentration in it",
+
+  "advancements.lava.basalt.title": "Shell of Amethysts",
+  "advancements.lava.basalt.description": "Watch as Blue Ice, Soul Sand and Lava meet",
+
+  "advancements.lava.cobbled_deepslate.title": "Almost at Groundwater Level",
+  "advancements.lava.cobbled_deepslate.description": "Increase the amount of Lava in Cobblestone",
+
+  "advancements.lava.crimsite.title": "Red Tufff",
+  "advancements.lava.crimsite.description": "Smoke Tuff to increase the iron concentration in it",
+
+  "advancements.lava.limestone.title": "Chemical Reactions I",
+  "advancements.lava.limestone.description": "Watch as Honey and Lava meet",
+
+  "advancements.lava.ochrum.title": "Yellow Tuff",
+  "advancements.lava.ochrum.description": "Smelt Tuff to increase the gold concentration in it",
+
+  "advancements.lava.root.title": "The Molten Age",
+
+  "advancements.lava.scoria.title": "Chemical Reactions II",
+  "advancements.lava.scoria.description": "Watch as Chocolate and Lava meet",
+
+  "advancements.lava.tuff.title": "Enriched Deepslate",
+  "advancements.lava.tuff.description": "This Tuff underwent a tough process",
+
+  "advancements.lava.veridium.title": "Green Tuff",
+  "advancements.lava.veridium.description": "Haunt Tuff to increase the zinc concentration in it",
+
+  "advancements.lava.zinc.title": "Zincum Adaptabile",
+  "advancements.lava.zinc.description": "Produce some Zinc Ingots for Copycats or to create Brass",
+
+
+  "advancements.nether.crimson_fungus.title": "Cursed Fungi",
+  "advancements.nether.crimson_fungus.description": "Haunt Red Mushrooms to obtain their Nether equivalent",
+
+  "advancements.nether.fire_charge.title": "Portable Flames",
+  "advancements.nether.fire_charge.description": "Get Piglins to sell you a Fire Charge",
+
+  "advancements.nether.obtain_blaze_rod.new_description": "Ignite a rod of a Breeze",
+
+  "advancements.nether.nether_wart.title": "Real Potions",
+  "advancements.nether.nether_wart.description": "Mill the leaves of a huge Crimson Fungus",
+
+  "advancements.nether.root.new_title": "The \"What the Hell\" Age",
+
+  "advancements.nether.soul_sand.title": "Captured Spirit",
+  "advancements.nether.soul_sand.description": "Get Piglins to sell you the catalyst for haunting",
+
+  "advancements.nether.strength_potion.title": "Protein Shake",
+  "advancements.nether.strength_potion.description": "Brew Blaze Powder into an Awkward Potion",
+
+  "advancements.nether.summon_blaze.title": "Bringing Fire to Life",
+  "advancements.nether.summon_blaze.description": "Free a Blaze from its Spawn Egg",
+
+  "advancements.nether.super_heated.title": "Blazing Hot",
+  "advancements.nether.super_heated.description": "Give a Blaze Burner a Straw to slurp Bioethanol",
+
+
+  "advancements.water_fishing.brown_mushroom.title": "Button Mushroom vs. Toadstool",
+  "advancements.water_fishing.brown_mushroom.description": "Spread Mushrooms on Mycelium and collect Brown Mushrooms to ferment Spider Eyes",
+
+  "advancements.water_fishing.dough.title": "Baker's Base",
+  "advancements.water_fishing.dough.description": "Knead your first piece of dough",
+
+  "advancements.water_fishing.fish_in_open_water.title": "Feels Like an Ocean",
+  "advancements.water_fishing.fish_in_open_water.description": "Fish in a water pool large enough to find treasures.",
+
+  "advancements.water_fishing.kelp.title": "Conveying Kelp",
+  "advancements.water_fishing.kelp.description": "Pull some algae out of the water",
+
+  "advancements.water_fishing.mooshroom.title": "Infested Cow",
+  "advancements.water_fishing.mooshroom.description": "Get a Mooshroom Spawn Egg pulled out of the ground by the Sniffer",
+
+  "advancements.water_fishing.pig.title": "Cultivating Wild Boar",
+  "advancements.water_fishing.pig.description": "Get a mud-bathed Pig presented by the Sniffer",
+
+  "advancements.water_fishing.place_fishing_net.title": "Overfishing",
+  "advancements.water_fishing.place_fishing_net.description": "Lay out a fishing net in the water to catch fish more easily",
+
+  "advancements.water_fishing.root.title": "The Wet Age",
+  "advancements.water_fishing.root.description": "Get in contact with water",
+
+  "advancements.water_fishing.shear_mooshroom.title": "Veterinarian",
+  "advancements.water_fishing.shear_mooshroom.description": "Release a Mooshroom from its mushrooms",
+
+  "advancements.water_fishing.slime_ball.title": "Sticky Dough",
+  "advancements.water_fishing.slime_ball.description": "Slime Balls are basically just Lime Dough, right?",
+
+  "advancements.water_fishing.summon_breeze.title": "A Living Whirlwind",
+  "advancements.water_fishing.summon_breeze.description": "Place Packed Ice on top of a Nozzle attached to an Encased Fan blowing upwards at 256 RPM",
+
+  "advancements.water_fishing.water_bottle.title": "Message in a Bottle",
+  "advancements.water_fishing.water_bottle.description": "Fish a deposit bottle filled with Water",
+
+
   "create_sky_additions.word_chance": "Chance",
   "emi.info.fishing_fish": "Can be fished as fish.",
   "emi.info.fishing_junk": "Can be fished as junk.",
@@ -135,5 +232,5 @@
   "emi.info.sniffer_digging": "Can be dug up by a Sniffer.",
      
   "functions.create_bamboo_island.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
-  "functions.create_bamboo_island.cannot_place_island": "You cannot place an island here."
+  "functions.create_bamboo_island.cannot_place_island": "The selected location is too close to another island."
 }

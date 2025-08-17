@@ -58,11 +58,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
+      "color": "#2DB82D",
       "translate": "farmersdelight.advancement.place_feast.desc"
     },
     "icon": {
-      "count": 1,
       "id": "farmersdelight:roast_chicken_block"
     },
     "title": {

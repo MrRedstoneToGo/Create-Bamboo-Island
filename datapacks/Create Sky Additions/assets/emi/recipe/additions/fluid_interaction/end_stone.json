@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:create_dragons_plus:dragon_breath",
+  "right": "fluid:minecraft:lava",
+  "output": "item:minecraft:end_stone"
+}

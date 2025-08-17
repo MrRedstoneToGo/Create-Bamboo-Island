@@ -1,0 +1,27 @@
+{
+  "parent": "create_sky_additions:copper/biplane",
+  "criteria": {
+    "airship": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "immersive_aircraft:airship"  
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.copper.airship.description"
+    },
+    "icon": {
+      "id": "immersive_aircraft:airship"
+    },
+    "title": {
+      "translate": "advancements.copper.airship.title"
+    }
+  },
+  "requirements": [
+    ["airship"]
+  ]
+}

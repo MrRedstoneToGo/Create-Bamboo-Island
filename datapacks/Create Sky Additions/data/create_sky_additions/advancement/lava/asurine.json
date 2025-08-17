@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:lava/tuff",
+  "criteria": {
+    "asurine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:asurine"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.lava.asurine.description"
+    },
+    "icon": {
+      "id": "create:asurine"
+    },
+    "title": {
+      "translate": "advancements.lava.asurine.title"
+    }
+  },
+  "requirements": [
+    ["asurine"]
+  ]
+}

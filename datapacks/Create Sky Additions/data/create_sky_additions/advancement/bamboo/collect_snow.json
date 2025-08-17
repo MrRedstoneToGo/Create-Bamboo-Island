@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:snow_ball"]
+            "items": "minecraft:snowball"
           }
         ]
       }
@@ -15,15 +15,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.bamboo.collect_snow.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
-      "count": 1,
-      "id": "minecraft:snow_ball"
+      "id": "minecraft:snow"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bamboo.collect_snow.title"
     }

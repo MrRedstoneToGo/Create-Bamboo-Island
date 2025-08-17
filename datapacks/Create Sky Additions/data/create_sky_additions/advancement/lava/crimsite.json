@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:lava/tuff",
+  "criteria": {
+    "crimsite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:crimsite"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.lava.crimsite.description"
+    },
+    "icon": {
+      "id": "create:crimsite"
+    },
+    "title": {
+      "translate": "advancements.lava.crimsite.title"
+    }
+  },
+  "requirements": [
+    ["crimsite"]
+  ]
+}

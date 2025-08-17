@@ -1,12 +1,12 @@
 {
-  "parent": "create_sky_additions:create:spout",
+  "parent": "create:spout",
   "criteria": {
     "redstone": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:redstone"]
+            "items": "minecraft:redstone"
           }
         ]
       }
@@ -15,15 +15,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.copper.redstone.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:redstone"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.copper.redstone.title"
     }

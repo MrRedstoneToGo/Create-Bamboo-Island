@@ -1,5 +1,5 @@
 {
-  "parent": "create:brass_casing",
+  "parent": "create_sky_additions:copper/redstone",
   "criteria": {
     "0": {
       "trigger": "create:linked_controller_builtin"
@@ -12,7 +12,6 @@
       "translate": "advancement.create.linked_controller.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:linked_controller"
     },
     "title": {

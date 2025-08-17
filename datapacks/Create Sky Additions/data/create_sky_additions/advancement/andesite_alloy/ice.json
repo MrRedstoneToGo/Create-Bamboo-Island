@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:ice"]
+            "items": "minecraft:ice"
           }
         ]
       }
@@ -18,15 +18,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.andesite_alloy.ice.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:ice"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.andesite_alloy.ice.title"
     }

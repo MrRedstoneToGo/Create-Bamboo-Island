@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  I",
+    "PPP",
+    "I  "
+  ],
+  "key": {
+    "P": [
+      {
+        "item": "create:fluid_pipe"
+      }
+    ],
+    "I": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ]
+  },
+  "result": {
+    "id": "immersive_aircraft:sturdy_pipes"
+  }
+}

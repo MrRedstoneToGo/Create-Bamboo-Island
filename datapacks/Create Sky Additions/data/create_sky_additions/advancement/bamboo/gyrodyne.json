@@ -1,0 +1,28 @@
+{
+  "parent": "create_sky_additions:bamboo/iron_nugget",
+  "criteria": {
+    "gyrodyne": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "immersive_aircraft:gyrdyne"  
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.gyrodyne.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "immersive_aircraft:gyrodyne"
+    },
+    "title": {
+      "translate": "advancements.bamboo.gyrodyne.title"
+    }
+  },
+  "requirements": [
+    ["gyrodyne"]
+  ]
+}

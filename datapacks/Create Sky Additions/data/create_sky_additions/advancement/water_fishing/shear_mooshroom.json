@@ -5,7 +5,7 @@
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {
-          "items": ["minecraft:shears"]
+          "items": "minecraft:shears"
         },
         "entity": {
           "type": "minecraft:mooshroom"
@@ -16,15 +16,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.water_fishing.shear_mooshroom.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:red_mushroom"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.water_fishing.shear_mooshroom.title"
     }

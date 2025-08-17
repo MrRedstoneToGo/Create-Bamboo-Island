@@ -13,11 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "translate": "advancements.nether.obtain_blaze_rod.description"
+      "color": "#87CEFA",
+      "translate": "advancements.nether.obtain_blaze_rod.new_description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:blaze_rod"
     },
     "title": {

@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["create:scoria"]
+            "items": "create:scoria"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.lava.scoria.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "create:scoria"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.lava.scoria.title"
     }

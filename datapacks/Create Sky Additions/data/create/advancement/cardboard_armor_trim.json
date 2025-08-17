@@ -1,11 +1,12 @@
 {
-  "parent": "minecraft:adventure/trim_with_any_armor_trim",
+  "parent": "minecraft:adventure/trim_with_any_armor_pattern",
   "criteria": {
     "0": {
       "trigger": "create:cardboard_armor_trim_builtin"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.cardboard_armor_trim.desc"
@@ -19,7 +20,6 @@
           "pattern": "minecraft:sentry"
         }
       },
-      "count": 1,
       "id": "create:cardboard_chestplate"
     },
     "title": {

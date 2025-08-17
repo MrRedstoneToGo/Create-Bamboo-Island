@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "s": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "s s",
+    " s ",
+    "s s"
+  ],
+  "result": {
+    "id": "minecraft:cobweb"
+  },
+  "show_notification": true 
+}

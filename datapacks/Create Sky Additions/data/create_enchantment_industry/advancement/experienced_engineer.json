@@ -1,5 +1,5 @@
 {
-  "parent": "create_enchantment_industry:root",
+  "parent": "create_enchantment_industry:gone_with_the_foil",
   "criteria": {
     "0": {
       "conditions": {
@@ -15,11 +15,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.experienced_engineer.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:experience_nugget"
     },
     "title": {

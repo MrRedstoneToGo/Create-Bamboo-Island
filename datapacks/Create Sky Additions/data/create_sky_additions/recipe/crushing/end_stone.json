@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:end_stone"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "minecraft:end_stone",
+      "chance": 0.5
+    },
+    {
+      "id": "minecraft:chorus_fruit",
+      "chance": 0.1
+    }
+  ]
+}

@@ -6,12 +6,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.grind_to_polish.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:sand_paper"
     },
     "title": {

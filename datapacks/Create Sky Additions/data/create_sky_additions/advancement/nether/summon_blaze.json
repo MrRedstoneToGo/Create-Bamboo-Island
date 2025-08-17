@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:nether/fire_charge",
+  "criteria": {
+    "summon_blaze": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "minecraft:blaze_spawn_egg"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.nether.summon_blaze.description"
+    },
+    "icon": {
+      "id": "minecraft:blaze_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.nether.summon_blaze.title"
+    }
+  },
+  "requirements": [
+    ["summon_blaze"]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "createframed:karpboard_block"
+    },
+    "title": {
+      "translate": "advancement.createframed.karpboard.title"
+    },
+    "description": {
+      "color": "#EEFF1B",
+      "translate": "advancement.createframed.karpboard.description"
+    },
+    "hidden": true
+  },
+  "parent": "create:cardboard",
+  "criteria": {
+    "has_karpboard_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createframed:karpboard_block",
+              "createframed:shiny_karpboard_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_karpboard_block"
+    ]
+  ]
+}

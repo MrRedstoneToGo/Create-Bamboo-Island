@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story:mine_diamond",
+  "parent": "minecraft:story/mine_diamond",
   "criteria": {
     "armor_trimmed_minecraft:bolt_armor_trim_smithing_template_smithing_trim": {
       "conditions": {
@@ -111,11 +111,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.trim_with_any_armor_pattern.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:dune_armor_trim_smithing_template"
     },
     "title": {

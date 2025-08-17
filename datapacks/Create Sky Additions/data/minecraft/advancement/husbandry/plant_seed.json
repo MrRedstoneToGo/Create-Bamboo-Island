@@ -1,5 +1,5 @@
 {
-  "parent": "farmersdelight:main/get_fd_seed",
+  "parent": "create_sky_additions:bamboo/flower",
   "criteria": {
     "beetroots": {
       "conditions": {
@@ -113,11 +113,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.plant_seed.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:wheat"
     },
     "title": {

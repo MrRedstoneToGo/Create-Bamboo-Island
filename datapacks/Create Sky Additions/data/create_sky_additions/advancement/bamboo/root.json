@@ -19,20 +19,17 @@
     "announce_to_chat": true,
     "background": "create_sky_additions:textures/gui/advancements/backgrounds/bamboo.png",
     "description": {
-      "translate": "advancements.create_bamboo_island.bamboo_island.root.description",
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.root.description",
       "with": [
-        {"translate": "advancements.root.description.press_l", "bold": true, "color": "red"}
+        {"translate": "advancements.bamboo.root.description.press_l", "bold": true, "color": "red"}
       ]
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:bamboo"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.bamboo_island.root.title"
+      "translate": "advancements.bamboo.root.title"
     }
   }
 }

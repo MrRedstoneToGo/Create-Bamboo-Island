@@ -6,13 +6,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.steam_engine_maxed.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:steam_engine"
     },
     "title": {

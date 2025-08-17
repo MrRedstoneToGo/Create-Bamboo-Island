@@ -8,12 +8,11 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.spirit_taking.desc"
     },
     "icon": {
-      "count": 1,
-      "id": "create:experience_nugget"
+      "id": "create_enchantment_industry:experience_hatch"
     },
     "title": {
       "translate": "advancement.create_enchantment_industry.spirit_taking"

@@ -1,0 +1,33 @@
+{
+  "parent": "create_sky_additions:bamboo/gyrodyne",
+  "criteria": {
+    "aircraft_weapons": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#immersive_aircraft:weapons"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.aircraft_weapons.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "id": "immersive_aircraft:heavy_crossbow"
+    },
+    "title": {
+      "translate": "advancements.bamboo.aircraft_weapons.title"
+    }
+  },
+  "requirements": [
+    ["aircraft_weapons"]
+  ]
+}

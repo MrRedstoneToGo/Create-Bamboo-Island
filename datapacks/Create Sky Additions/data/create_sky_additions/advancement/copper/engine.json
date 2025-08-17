@@ -1,0 +1,28 @@
+{
+  "parent": "create:steam_engine",
+  "criteria": {
+    "engine": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "immersive_aircraft:engine"  
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.copper.engine.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "immersive_aircraft:boiler"
+    },
+    "title": {
+      "translate": "advancements.copper.engine.title"
+    }
+  },
+  "requirements": [
+    ["engine"]
+  ]
+}

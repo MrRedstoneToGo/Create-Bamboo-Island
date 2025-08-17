@@ -6,14 +6,14 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.probability_spike.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
-      "id": "minecraft:diamond"
+      "id": "create_enchantment_industry:experience_cake"
     },
     "title": {
       "translate": "advancement.create_enchantment_industry.probability_spike"

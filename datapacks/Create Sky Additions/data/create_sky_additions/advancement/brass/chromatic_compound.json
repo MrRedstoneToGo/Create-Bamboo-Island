@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["create:chromatic_compound"]
+            "items": "create:chromatic_compound"
           }
         ]
       }
@@ -15,15 +15,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.brass.chromatic_compound.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:chromatic_compound"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.brass.chromatic_compound.title"
     }

@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:lava/cobbled_deepslate",
+  "criteria": {
+    "tuff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:tuff"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.lava.tuff.description"
+    },
+    "icon": {
+      "id": "minecraft:tuff"
+    },
+    "title": {
+      "translate": "advancements.lava.tuff.title"
+    }
+  },
+  "requirements": [
+    ["tuff"]
+  ]
+}

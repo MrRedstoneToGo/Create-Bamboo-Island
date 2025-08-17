@@ -1,0 +1,36 @@
+{
+  "parent": "create_sky_additions:water_fishing/place_fishing_net",
+  "criteria": {
+    "fish_in_open_water": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "entity": {
+            "type_specific": {
+              "type": "minecraft:fishing_hook",
+              "in_open_water": true
+            }
+          }
+      }
+    }
+  },
+  "requirements": [
+    ["fish_in_open_water"]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.water_fishing.fish_in_open_water.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:fishing_rod",
+      "components": {
+        "enchantment_glint_override": true
+      }
+    },
+    "title": {
+      "translate": "advancements.water_fishing.fish_in_open_water.title"
+    }
+  }
+}

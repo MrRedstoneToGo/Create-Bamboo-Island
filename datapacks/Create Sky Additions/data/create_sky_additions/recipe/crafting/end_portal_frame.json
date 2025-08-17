@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "S": {
+      "item": "create:shadow_steel_casing"
+    },
+    "C": {
+      "item": "minecraft:heavy_core"
+    },
+    "e": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "pattern": [
+    "DSD",
+    "DCD",
+    "eee"
+  ],
+  "result": {
+    "id": "minecraft:end_portal_frame"
+  },
+  "show_notification": true 
+}

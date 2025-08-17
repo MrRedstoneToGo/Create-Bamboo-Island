@@ -1,0 +1,27 @@
+{
+  "parent": "create_sky_additions:copper/engine",
+  "criteria": {
+    "biplane": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "immersive_aircraft:biplane"  
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.copper.biplane.description"
+    },
+    "icon": {
+      "id": "immersive_aircraft:biplane"
+    },
+    "title": {
+      "translate": "advancements.copper.biplane.title"
+    }
+  },
+  "requirements": [
+    ["biplane"]
+  ]
+}

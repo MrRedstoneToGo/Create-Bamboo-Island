@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:water_fishing/root",
+  "parent": "minecraft:husbandry/fishy_business",
   "criteria": {
     "plant_rice": {
       "conditions": {
@@ -16,10 +16,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#2DB82D",
       "translate": "farmersdelight.advancement.plant_rice.desc"
     },
     "icon": {
-      "count": 1,
       "id": "farmersdelight:rice"
     },
     "title": {

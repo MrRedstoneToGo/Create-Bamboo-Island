@@ -1,0 +1,32 @@
+{
+  "parent": "create_sky_additions:end_preparation/heavy_core",
+  "criteria": {
+    "end_portal_frame": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:end_portal_frame"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.end_preparation.end_portal_frame.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:end_portal_frame"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.end_portal_frame.title"
+    }
+  },
+  "requirements": [
+    ["end_portal_frame"]
+  ]
+}

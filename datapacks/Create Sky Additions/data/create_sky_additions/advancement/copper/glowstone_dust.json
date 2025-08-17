@@ -1,12 +1,12 @@
 {
-  "parent": "create_sky_additions:create:spout",
+  "parent": "create:spout",
   "criteria": {
     "glowstone_dust": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:glowstone_dust"]
+            "items": "minecraft:glowstone_dust"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.copper.glowstone_dust.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:glowstone_dust"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.copper.glowstone_dust.title"
     }

@@ -1,5 +1,5 @@
 {
-  "parent": "create_enchantment_industry:experienced_engineer",
+  "parent": "create:drain",
   "criteria": {
     "0": {
       "trigger": "create_enchantment_industry:gone_with_the_foil"
@@ -8,11 +8,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.gone_with_the_foil.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create_enchantment_industry:mechanical_grindstone"
     },
     "title": {

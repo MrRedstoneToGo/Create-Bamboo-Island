@@ -8,11 +8,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.assembly_aesthetics.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create_dragons_plus:rare_marble_gate_pacakge"
     },
     "title": {

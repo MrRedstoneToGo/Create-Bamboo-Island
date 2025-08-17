@@ -1,0 +1,33 @@
+{
+  "parent": "create_sky_additions:bamboo/gyrodyne",
+  "criteria": {
+    "aircraft_upgrade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#immersive_aircraft:upgrades"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.aircraft_upgrade.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "id": "immersive_aircraft:industrial_gears"
+    },
+    "title": {
+      "translate": "advancements.bamboo.aircraft_upgrade.title"
+    }
+  },
+  "requirements": [
+    ["aircraft_upgrade"]
+  ]
+}

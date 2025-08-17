@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:water_fishing/root",
+  "parent": "create_sky_additions:water_fishing/dough",
   "criteria": {
     "0": {
       "conditions": {
@@ -19,7 +19,6 @@
       "translate": "advancement.create.cardboard.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:cardboard"
     },
     "title": {

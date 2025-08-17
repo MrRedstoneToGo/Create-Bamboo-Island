@@ -13,12 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.end.levitate.description"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:shulker_shell"
     },
     "title": {
@@ -30,8 +30,5 @@
       "levitated"
     ]
   ],
-  "rewards": {
-    "experience": 50
-  },
   "sends_telemetry_event": true
 }

@@ -1,12 +1,12 @@
 {
-  "parent": "create_sky_additions:bamboo/grow_mega_jungle_tree",
+  "parent": "create_sky_additions:bamboo/grow_cherry_tree",
   "criteria": {
     "cocoa_beans": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:cocoa_beans"]
+            "items": "minecraft:cocoa_beans"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.bamboo.cocoa_beans.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
-      "id": "decorative_blocks:rocky_dirt"
+      "id": "minecraft:cocoa_beans"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bamboo.cocoa_beans.title"
     }

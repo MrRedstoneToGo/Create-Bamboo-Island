@@ -1,19 +1,19 @@
 {
-  "parent": "create_enchantment_industry:lightning_catalysis",
+  "parent": "minecraft:story/enchant_item",
   "criteria": {
     "0": {
       "trigger": "create_enchantment_industry:osha_violation"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.osha_violation.desc"
     },
     "frame": "goal",
     "hidden": true,
     "icon": {
-      "count": 1,
       "id": "minecraft:barrier"
     },
     "title": {

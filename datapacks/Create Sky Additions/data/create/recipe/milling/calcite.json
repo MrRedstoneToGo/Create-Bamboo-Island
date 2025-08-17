@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bone_meal",
+      "chance": 0.75
+    },
+    {
+      "id": "minecraft:lapis_lazuli",
+      "chance": 0.20
+    }
+  ],
+  "processing_time": 250
+}

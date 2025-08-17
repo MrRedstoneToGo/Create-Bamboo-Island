@@ -28,12 +28,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.blowback.description"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:wind_charge"
     },
     "title": {
@@ -45,8 +45,5 @@
       "blowback"
     ]
   ],
-  "rewards": {
-    "experience": 40
-  },
   "sends_telemetry_event": true
 }

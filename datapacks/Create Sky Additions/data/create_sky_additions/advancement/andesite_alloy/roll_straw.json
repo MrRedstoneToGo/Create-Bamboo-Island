@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:string"]
+            "items": "minecraft:string"
           }
         ]
       }
@@ -18,15 +18,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.andesite_alloy.roll_straw.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "createaddition:rolling_mill"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.andesite_alloy.roll_straw.title"
     }

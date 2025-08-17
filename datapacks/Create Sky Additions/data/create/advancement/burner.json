@@ -18,8 +18,8 @@
       "color": "#DBA213",
       "translate": "advancement.create.burner.desc"
     },
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:blaze_burner"
     },
     "title": {

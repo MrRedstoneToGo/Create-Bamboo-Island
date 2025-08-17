@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:milk"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create:potion",
+      "components": {
+        "create:potion_fluid_bottle_type": "splash",
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        }
+      }
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "id": "create_dragons_plus:dragon_breath"
+    }
+  ]
+}

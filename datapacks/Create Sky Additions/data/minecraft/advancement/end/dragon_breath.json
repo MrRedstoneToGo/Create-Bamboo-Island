@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/kill_dragon",
+  "parent": "create_sky_additions:copper/gunpowder",
   "criteria": {
     "dragon_breath": {
       "conditions": {
@@ -13,12 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.end.dragon_breath.description"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:dragon_breath"
     },
     "title": {

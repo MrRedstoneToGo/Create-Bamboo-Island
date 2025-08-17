@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "s": {
+      "item": "create:sturdy_sheet"
+    },
+    "S": {
+      "item": "create:shadow_steel"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "pattern": [
+    "sSs",
+    "SES",
+    "sSs"
+  ],
+  "result": {
+    "id": "minecraft:heavy_core"
+  },
+  "show_notification": true 
+}

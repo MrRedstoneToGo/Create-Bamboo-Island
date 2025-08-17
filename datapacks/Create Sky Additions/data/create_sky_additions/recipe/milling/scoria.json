@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:scoria"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "create:copper_nugget"
+    },
+    {
+      "id": "create:copper_nugget",
+      "chance": 0.5
+    },
+    {
+      "id": "minecraft:charcoal",
+      "chance": 0.25
+    }
+  ],
+  "processing_time": 250
+}

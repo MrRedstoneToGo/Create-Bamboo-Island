@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:nether/brew_potion",
+  "criteria": {
+    "strength_potion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:potion",
+            "components": {
+              "potion_contents": {
+                "potion": "minecraft:strength"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.nether.strength_potion.description"
+    },
+    "icon": {
+      "id": "minecraft:potion",
+      "components": {
+        "potion_contents": {
+          "potion": "minecraft:strength"
+        }
+      }
+    },
+    "title": {
+      "translate": "advancements.nether.strength_potion.title"
+    }
+  },
+  "requirements": [
+    ["strength_potion"]
+  ]
+}

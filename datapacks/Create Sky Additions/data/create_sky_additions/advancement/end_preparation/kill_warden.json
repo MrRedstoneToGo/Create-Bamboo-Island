@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:end_preparation/jump_on_sculk_shrieker",
+  "criteria": {
+    "warden": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:warden"
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#0073CF",
+      "translate": "advancements.end_preparation.kill_warden.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:sculk_shrieker"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.kill_warden.title"
+    }
+  },
+  "requirements": [
+    ["warden"]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "A"
+  ],
+  "key": {
+    "T": [
+      {
+        "item": "minecraft:spyglass"
+      }
+    ],
+    "A": [
+      {
+        "item": "create:andesite_alloy"
+      }
+    ]
+  },
+  "result": {
+    "id": "immersive_aircraft:telescope"
+  }
+}

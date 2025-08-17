@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "f": {
+      "item": "minecraft:chorus_fruit"
+    }
+  },
+  "pattern": [
+    "ff",
+    "ff"
+  ],
+  "result": {
+    "id": "minecraft:chorus_flower"
+  },
+  "show_notification": true 
+}

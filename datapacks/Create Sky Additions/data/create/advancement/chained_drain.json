@@ -6,6 +6,7 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.chained_drain.desc"
@@ -13,7 +14,6 @@
     "frame": "goal",
     "hidden": true,
     "icon": {
-      "count": 1,
       "id": "create:item_drain"
     },
     "title": {

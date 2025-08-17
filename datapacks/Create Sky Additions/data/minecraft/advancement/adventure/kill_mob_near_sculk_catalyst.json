@@ -1,17 +1,16 @@
 {
-  "parent": "minecraft:adventure/kill_a_mob",
+  "parent": "create_sky_additions:end_preparation/root",
   "criteria": {
     "kill_mob_near_sculk_catalyst": {
       "trigger": "minecraft:kill_mob_near_sculk_catalyst"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.kill_mob_near_sculk_catalyst.description"
     },
-    "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:sculk_catalyst"
     },
     "title": {

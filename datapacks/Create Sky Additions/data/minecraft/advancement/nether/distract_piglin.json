@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "create_sky_additions:nether/root",
   "criteria": {
     "distract_piglin": {
       "conditions": {
@@ -159,11 +159,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.nether.distract_piglin.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:gold_ingot"
     },
     "title": {

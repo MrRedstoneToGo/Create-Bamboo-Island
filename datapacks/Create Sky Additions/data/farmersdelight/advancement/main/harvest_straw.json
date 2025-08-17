@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:bamboo/crafting_table",
+  "parent": "farmersdelight:main/use_cutting_board",
   "criteria": {
     "harvest_straw": {
       "conditions": {
@@ -15,10 +15,17 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "translate": "farmersdelight.advancement.harvest_straw.desc"
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.harvest_straw.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
     },
     "icon": {
-      "count": 1,
       "id": "farmersdelight:straw"
     },
     "title": {

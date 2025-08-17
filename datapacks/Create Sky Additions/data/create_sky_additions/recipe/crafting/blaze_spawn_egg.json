@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "pattern": [
+    "bbb",
+    "bFb",
+    "bbb"
+  ],
+  "result": {
+    "id": "minecraft:blaze_spawn_egg"
+  },
+  "show_notification": true 
+}

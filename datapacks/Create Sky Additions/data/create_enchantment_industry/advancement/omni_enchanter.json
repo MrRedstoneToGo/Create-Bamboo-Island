@@ -1,5 +1,5 @@
 {
-  "parent": "create_enchantment_industry:paradox_fusion",
+  "parent": "create_enchantment_industry:thousand_runes",
   "criteria": {
     "0": {
       "conditions": {
@@ -13,13 +13,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.omni_enchanter.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:nether_star"
     },
     "title": {

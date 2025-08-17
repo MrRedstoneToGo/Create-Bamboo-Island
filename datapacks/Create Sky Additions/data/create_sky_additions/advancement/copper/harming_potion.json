@@ -1,0 +1,41 @@
+{
+  "parent": "create_sky_additions:copper/spider_eye",
+  "criteria": {
+    "harming_potion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:potion",
+            "components": {
+              "potion_contents": {
+                "potion": "minecraft:harming"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.copper.harming_potion.description"
+    },
+    "icon": {
+      "id": "minecraft:potion",
+      "components": {
+        "potion_contents": {
+          "potion": "minecraft:harming"
+        }
+      }
+    },
+    "title": {
+      "translate": "advancements.copper.harming_potion.title"
+    }
+  },
+  "requirements": [
+    ["harming_potion"]
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:water_fishing/shear_mooshroom",
+  "parent": "farmersdelight:main/get_rich_soil",
   "criteria": {
     "brown_mushroom_colony": {
       "conditions": {
@@ -25,10 +25,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#2DB82D",
       "translate": "farmersdelight.advancement.get_mushroom_colony.desc"
     },
     "icon": {
-      "count": 1,
       "id": "farmersdelight:red_mushroom_colony"
     },
     "title": {

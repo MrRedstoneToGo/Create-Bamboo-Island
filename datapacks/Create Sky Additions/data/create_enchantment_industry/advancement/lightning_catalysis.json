@@ -1,5 +1,5 @@
 {
-  "parent": "create_enchantment_industry:experienced_engineer",
+  "parent": "create_enchantment_industry:sigil_forging",
   "criteria": {
     "0": {
       "conditions": {
@@ -13,14 +13,14 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.lightning_catalysis.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
-      "id": "create_enchantment_industry:blaze_forger"
+      "id": "create_enchantment_industry:super_experience_nugget"
     },
     "title": {
       "translate": "advancement.create_enchantment_industry.lightning_catalysis"

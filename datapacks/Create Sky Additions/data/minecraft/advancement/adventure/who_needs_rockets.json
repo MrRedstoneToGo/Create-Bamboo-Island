@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:create_sky_additions:water_fishing/summon_breeze",
+  "parent": "create_sky_additions:water_fishing/summon_breeze",
   "criteria": {
     "who_needs_rockets": {
       "conditions": {
@@ -22,11 +22,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.adventure.who_needs_rockets.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:wind_charge"
     },
     "title": {

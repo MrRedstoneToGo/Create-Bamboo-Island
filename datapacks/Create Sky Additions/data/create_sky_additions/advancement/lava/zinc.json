@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["create:zinc_ingot"]
+            "items": "create:zinc_ingot"
           }
         ]
       }
@@ -15,15 +15,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.lava.zinc.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:zinc_ingot"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.lava.zinc.title"
     }

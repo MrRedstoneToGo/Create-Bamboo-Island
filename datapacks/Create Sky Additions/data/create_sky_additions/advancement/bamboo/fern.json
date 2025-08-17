@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:bamboo/flower",
+  "criteria": {
+    "fern": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:fern"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.fern.description"
+    },
+    "icon": {
+      "id": "minecraft:fern"
+    },
+    "title": {
+      "translate": "advancements.bamboo.fern.title"
+    }
+  },
+  "requirements": [
+    ["fern"]
+  ]
+}

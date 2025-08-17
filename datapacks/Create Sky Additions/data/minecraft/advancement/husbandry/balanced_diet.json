@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:husbandry/plant_seed",
+  "parent": "farmersdelight:main/eat_comfort_food",
   "criteria": {
     "apple": {
       "conditions": {
@@ -323,12 +323,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.balanced_diet.description"
     },
     "frame": "challenge",
     "icon": {
-      "count": 1,
       "id": "minecraft:apple"
     },
     "title": {
@@ -457,8 +457,5 @@
       "glow_berries"
     ]
   ],
-  "rewards": {
-    "experience": 100
-  },
   "sends_telemetry_event": true
 }

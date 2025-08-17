@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:bamboo/grow_cherry_tree",
+  "parent": "create_sky_additions:water_fishing/water_bottle",
   "criteria": {
     "safely_harvest_honey": {
       "conditions": {
@@ -25,11 +25,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.safely_harvest_honey.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:honey_bottle"
     },
     "title": {

@@ -1,27 +1,7 @@
 {
-  "parent": "minecraft:adventure/trade",
   "criteria": {
-    "trade_at_world_height": {
+    "impossible": {
       "trigger": "minecraft:impossible"
     }
-  },
-  "display": {
-    "description": {
-      "translate": "advancements.adventure.trade_at_world_height.description"
-    },
-    "icon": {
-      "count": 1,
-      "id": "minecraft:emerald"
-    },
-    "hidden": true,
-    "title": {
-      "translate": "advancements.adventure.trade_at_world_height.title"
-    }
-  },
-  "requirements": [
-    [
-      "trade_at_world_height"
-    ]
-  ],
-  "sends_telemetry_event": true
+  }
 }

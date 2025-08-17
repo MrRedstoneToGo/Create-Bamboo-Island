@@ -1,27 +1,26 @@
 {
-  "parent": "create_sky_additions:water_fishing/root",
+  "parent": "minecraft:husbandry/fishy_business",
   "criteria": {
     "kelp": {
-      "trigger": "minecraft:fishing_rod_hooked",
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "item": {
-          "items": ["minecraft:kelp"]
-        }
+        "items": [
+          {
+          "items": "minecraft:kelp"
+          }
+        ]
       }
     }
   },
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.water_fishing.kelp.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:kelp"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.water_fishing.kelp.title"
     }

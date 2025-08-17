@@ -1,0 +1,24 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:enchanted_book{stored_enchantments: {soul_speed: 2}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1.09%\", color: gold, italic: false}]']}",
+    "item:minecraft:iron_boots{enchantments: {soul_speed: 2}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1.74%\", color: gold, italic: false}]']}",
+    "item:minecraft:potion{potion_contents: {potion: \"minecraft:fire_resistance\"}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1.74%\", color: gold, italic: false}]']}",
+    "item:minecraft:splash_potion{potion_contents: {potion: \"minecraft:water\"}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 1.74%\", color: gold, italic: false}]']}",
+    "item:minecraft:potion{potion_contents: {potion: \"minecraft:water\"}, lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 2.18%\", color: gold, italic: false}]']}",
+    "item:minecraft:iron_nugget{lore: ['{text: \"x10-36\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 2.18%\", color: gold, italic: false}]']}",
+    "item:minecraft:ender_pearl{lore: ['{text: \"x2-4\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 2.18%\", color: gold, italic: false}]']}",
+    "item:minecraft:string{lore: ['{text: \"x3-9\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 4.36%\", color: gold, italic: false}]']}",
+    "item:minecraft:quartz{lore: ['{text: \"x5-12\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 4.36%\", color: gold, italic: false}]']}",
+    "item:minecraft:obsidian{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:crying_obsidian{lore: ['{text: \"x1-3\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:fire_charge{lore: ['[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:leather{lore: ['{text: \"x2-4\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:soul_sand{lore: ['{text: \"x2-8\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:nether_brick{lore: ['{text: \"x2-8\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:spectral_arrow{lore: ['{text: \"x6-12\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:gravel{lore: ['{text: \"x8-16\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}",
+    "item:minecraft:blackstone{lore: ['{text: \"x8-16\", \"color\": \"gray\", \"italic\": false}', '[{translate: create_sky_additions.word_chance, color: gold, italic: false}, {text: \": 8.71%\", color: gold, italic: false}]']}"
+  ],
+  "text": "emi.info.piglin_bartering"
+}

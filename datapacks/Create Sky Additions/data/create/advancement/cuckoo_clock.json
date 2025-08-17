@@ -6,12 +6,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.cuckoo_clock.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create:cuckoo_clock"
     },
     "title": {

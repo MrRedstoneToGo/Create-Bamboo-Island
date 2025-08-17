@@ -1,18 +1,18 @@
 {
-  "parent": "create_sk<_additions:nether/root",
+  "parent": "create_sky_additions:nether/root",
   "criteria": {
     "0": {
       "trigger": "create:ejector_maxed_builtin"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.ejector_maxed.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "create:weighted_ejector"
     },
     "title": {

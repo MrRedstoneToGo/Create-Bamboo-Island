@@ -8,11 +8,10 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "color": "#DBA213",
+      "color": "#DDA0DD",
       "translate": "advancement.create_enchantment_industry.sigil_casting.desc"
     },
     "icon": {
-      "count": 1,
       "id": "create_enchantment_industry:enchanting_template"
     },
     "title": {

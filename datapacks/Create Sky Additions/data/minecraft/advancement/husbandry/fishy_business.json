@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:andesite_alloy/roll_straw",
+  "parent": "create_sky_additions:water_fishing/root",
   "criteria": {
     "cod": {
       "conditions": {
@@ -35,11 +35,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.husbandry.fishy_business.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:fishing_rod"
     },
     "title": {

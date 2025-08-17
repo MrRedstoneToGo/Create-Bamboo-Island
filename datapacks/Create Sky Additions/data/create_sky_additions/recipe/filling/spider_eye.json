@@ -1,0 +1,25 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "create:potion",
+      "components": {
+        "create:potion_fluid_bottle_type": "regular",
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strength"
+        }
+      }
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:spider_eye"
+    }
+  ]
+}

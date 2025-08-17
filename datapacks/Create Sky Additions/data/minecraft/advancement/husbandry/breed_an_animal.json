@@ -1,26 +1,7 @@
 {
-  "parent": "minecraft:husbandry/obtain_sniffer_egg",
   "criteria": {
-    "bred": {
-      "trigger": "minecraft:bred_animals"
+    "impossible": {
+      "trigger": "minecraft:impossible"
     }
-  },
-  "display": {
-    "description": {
-      "translate": "advancements.husbandry.breed_an_animal.description"
-    },
-    "icon": {
-      "count": 1,
-      "id": "minecraft:wheat"
-    },
-    "title": {
-      "translate": "advancements.husbandry.breed_an_animal.title"
-    }
-  },
-  "requirements": [
-    [
-      "bred"
-    ]
-  ],
-  "sends_telemetry_event": true
+  }
 }

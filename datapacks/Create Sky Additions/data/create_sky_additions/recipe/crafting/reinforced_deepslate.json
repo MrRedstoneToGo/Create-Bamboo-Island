@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "create:refined_radiance"
+    }
+  },
+  "pattern": [
+    "RnR",
+    "RDR",
+    "RnR"
+  ],
+  "result": {
+    "id": "minecraft:reinforced_deepslate"
+  },
+  "show_notification": true 
+}

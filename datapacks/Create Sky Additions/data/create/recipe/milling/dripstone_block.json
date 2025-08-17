@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "id": "create:zinc_nugget",
+      "chance": 0.1
+    }
+  ],
+  "processing_time": 250
+}

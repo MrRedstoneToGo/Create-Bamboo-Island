@@ -1,28 +1,7 @@
 {
-  "parent": "minecraft:husbandry/leash_all_frog_variants",
   "criteria": {
-    "froglights": {
+    "impossible": {
       "trigger": "minecraft:impossible"
     }
-  },
-  "display": {
-    "description": {
-      "translate": "advancements.husbandry.froglights.description"
-    },
-    "frame": "challenge",
-    "icon": {
-      "count": 1,
-      "id": "minecraft:verdant_froglight"
-    },
-    "hidden": true,
-    "title": {
-      "translate": "advancements.husbandry.froglights.title"
-    }
-  },
-  "requirements": [
-    [
-      "froglights"
-    ]
-  ],
-  "sends_telemetry_event": true
+  }
 }

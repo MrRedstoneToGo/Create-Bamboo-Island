@@ -6,11 +6,11 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.nether.brew_potion.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:potion"
     },
     "title": {

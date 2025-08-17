@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:breeze_rod"
-  },
-  "result": "minecraft:blaze_rod",
-  "experience": 0.1,
-  "cookingtime": 600
-}

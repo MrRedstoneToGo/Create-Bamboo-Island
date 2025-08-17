@@ -1,0 +1,31 @@
+{
+  "parent": "create_sky_additions:end_preparation/root",
+  "criteria": {
+    "refined_radiance": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:refined_radiance"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.end_preparation.refined_radiance.description"
+    },
+    "icon": {
+      "id": "create:refined_radiance"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.refined_radiance.title"
+    }
+  },
+  "requirements": [
+    ["refined_radiance"]
+  ]
+}

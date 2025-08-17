@@ -1,0 +1,41 @@
+{
+  "parent": "create_sky_additions:bamboo/use_bone_meal_on_grass_block",
+  "criteria": {
+    "small_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:small_flowers"
+          }
+        ]
+      }
+    },
+    "tall_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:tall_flowers"
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.flower.description"
+    },
+    "icon": {
+      "id": "minecraft:poppy"
+    },
+    "title": {
+      "translate": "advancements.bamboo.flower.title"
+    }
+  },
+  "requirements": [
+    ["small_flower", "tall_flower"]
+  ]
+}

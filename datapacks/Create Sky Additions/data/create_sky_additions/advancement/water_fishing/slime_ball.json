@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:slime_ball"]
+            "items": "minecraft:slime_ball"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.water_fishing.slime_ball.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:slime_ball"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.water_fishing.slime_ball.title"
     }

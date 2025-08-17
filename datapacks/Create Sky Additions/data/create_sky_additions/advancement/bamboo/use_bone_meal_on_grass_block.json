@@ -1,0 +1,42 @@
+{
+  "parent": "create_sky_additions:bamboo/compost",
+  "criteria": {
+    "use_bone_meal_on_ground": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:grass_block"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "minecraft:bone_meal"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.bamboo.use_bone_meal_on_grass_block.description"
+    },
+    "icon": {
+      "id": "minecraft:bone_meal"
+    },
+    "title": {
+      "translate": "advancements.bamboo.use_bone_meal_on_grass_block.title"
+    }
+  },
+  "requirements": [
+    ["use_bone_meal_on_ground"]
+  ]
+}

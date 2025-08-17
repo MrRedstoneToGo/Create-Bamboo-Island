@@ -13,11 +13,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.story.lava_bucket.description"
     },
+    "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:lava_bucket"
     },
     "title": {

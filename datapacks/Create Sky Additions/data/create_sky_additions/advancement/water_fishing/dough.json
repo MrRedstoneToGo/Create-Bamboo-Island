@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "c:dough"
+            "items": "create:dough"
           }
         ]
       }
@@ -15,15 +15,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.water_fishing.dough.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "create:dough"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.water_fishing.dough.title"
     }

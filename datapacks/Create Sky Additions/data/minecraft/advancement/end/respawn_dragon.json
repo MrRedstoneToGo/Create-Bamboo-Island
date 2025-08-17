@@ -17,12 +17,12 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "translate": "advancements.end.respawn_dragon.description"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "minecraft:end_crystal"
     },
     "title": {

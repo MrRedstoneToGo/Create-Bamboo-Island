@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:adventure/kill_mob_near_sculk_catalyst",
+  "criteria": {
+    "jump": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "distance": {
+          "y": {
+            "min": 1
+          }
+        },
+        "player": {
+          "location": {
+            "block": {
+              "blocks": "minecraft:sculk_shrieker",
+              "state": {
+                "can_summon": false
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#87CEFA",
+      "translate": "advancements.end_preparation.jump_on_sculk_shrieker.description"
+    },
+    "icon": {
+      "id": "minecraft:sculk_shrieker"
+    },
+    "title": {
+      "translate": "advancements.end_preparation.jump_on_sculk_shrieker.title"
+    }
+  },
+  "requirements": [
+    ["jump"]
+  ]
+}

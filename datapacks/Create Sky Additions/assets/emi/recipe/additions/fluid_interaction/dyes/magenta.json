@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:create_dragons_plus:magenta_dye",
+  "right": "fluid:minecraft:lava",
+  "output": "item:minecraft:magenta_concrete"
+}

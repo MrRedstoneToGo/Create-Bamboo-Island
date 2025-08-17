@@ -9,14 +9,14 @@
             "condition": "minecraft:location_check",
             "predicate": {
               "block": {
-                "blocks": ["minecraft:cherry_log"]
+                "blocks": "minecraft:cherry_log"
               }
             }
           },
           {
             "condition": "minecraft:match_tool",
             "predicate": {
-              "items": ["minecraft:bone_meal"]
+              "items": "minecraft:bone_meal"
             }
           }
         ]
@@ -26,15 +26,12 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.bamboo.grow_cherry_tree.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
-      "id": "minecraft:grass"
+      "id": "minecraft:cherry_sapling"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bamboo.grow_cherry_tree.title"
     }

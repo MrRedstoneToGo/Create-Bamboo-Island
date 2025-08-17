@@ -1,11 +1,12 @@
 {
-  "parent": "create_sky_additions:andesite_alloy/root",
+  "parent": "create:shifting_gears",
   "criteria": {
     "0": {
       "trigger": "create:hand_crank_000_builtin"
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
       "color": "#DBA213",
       "translate": "advancement.create.hand_crank_000.desc"
@@ -13,7 +14,6 @@
     "frame": "goal",
     "hidden": true,
     "icon": {
-      "count": 1,
       "id": "create:hand_crank"
     },
     "title": {

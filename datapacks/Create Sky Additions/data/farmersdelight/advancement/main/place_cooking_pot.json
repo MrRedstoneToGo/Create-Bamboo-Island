@@ -1,5 +1,5 @@
 {
-  "parent": "farmersdelight:main/place_campfire",
+  "parent": "farmersdelight:main/use_skillet",
   "criteria": {
     "cooking_pot": {
       "conditions": {
@@ -14,12 +14,13 @@
     }
   },
   "display": {
+    "announce_to_chat": false,
     "description": {
+      "color": "#2DB82D",
       "translate": "farmersdelight.advancement.place_cooking_pot.desc"
     },
     "frame": "goal",
     "icon": {
-      "count": 1,
       "id": "farmersdelight:cooking_pot"
     },
     "title": {

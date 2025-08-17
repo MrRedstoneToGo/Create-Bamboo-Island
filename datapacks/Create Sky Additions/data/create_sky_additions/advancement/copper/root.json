@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:copper_ingot"]
+            "items": "minecraft:copper_ingot"
           }
         ]
       }
@@ -18,17 +18,15 @@
     "announce_to_chat": false,
     "background": "create_sky_additions:textures/gui/advancements/backgrounds/copper.png",
     "description": {
-      "translate": "advancements.copper.root.description"
+      "color": "#DBA213",
+      "translate": "advancement.create.copper.desc"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:copper_ingot"
     },
     "show_toast": false,
     "title": {
-      "translate": "advancements.copper.root.title"
+      "translate": "advancement.create.copper_casing"
     }
   }
 }

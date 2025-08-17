@@ -14,17 +14,14 @@
     "announce_to_chat": false,
     "background": "create_sky_additions:textures/gui/advancements/backgrounds/nether.png",
     "description": {
-      "translate": "advancements.nether.root.description"
+      "translate": "advancements.story.enter_the_nether.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:crying_obsidian"
     },
     "show_toast": false,
     "title": {
-      "translate": "advancements.nether.root.title"
+      "translate": "advancements.nether.root.new_title"
     }
   }
 }

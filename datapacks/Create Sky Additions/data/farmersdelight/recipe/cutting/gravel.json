@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:coarse_dirt"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "minecraft:gravel"
+      }
+    },
+    {
+      "chance": 0.5,
+      "item": {
+        "id": "minecraft:dirt"
+      }
+    },
+    {
+      "item": {
+        "id": "minecraft:iron_nugget"
+      },
+      "chance": 0.125
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:item_ability",
+    "action": "shovel_dig"
+  }
+}

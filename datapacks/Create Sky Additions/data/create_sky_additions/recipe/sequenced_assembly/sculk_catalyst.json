@@ -1,0 +1,67 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "id": "minecraft:sculk_catalyst"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:end_stone"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 500,
+          "fluid": "create_dragons_plus:black_dye"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:end_stone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:end_stone"
+        },
+        {
+          "item": "create_enchantment_industry:super_experience_nugget"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:end_stone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:end_stone"
+        },
+        {
+          "item": "minecraft:nether_star"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:end_stone"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "minecraft:end_stone"
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "parent": "create_sky_additions:bamboo/cut_rocky_dirt",
+  "parent": "create_sky_additions:bamboo/cut_coarse_dirt",
   "criteria": {
     "iron_nugget": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:iron_nugget"]
+            "items": "minecraft:iron_nugget"
           }
         ]
       }
@@ -15,15 +15,13 @@
   "display": {
     "announce_to_chat": false,
     "description": {
+      "color": "#87CEFA",
       "translate": "advancements.bamboo.iron_nugget.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
-      "count": 1,
       "id": "minecraft:iron_nugget"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bamboo.iron_nugget.title"
     }
