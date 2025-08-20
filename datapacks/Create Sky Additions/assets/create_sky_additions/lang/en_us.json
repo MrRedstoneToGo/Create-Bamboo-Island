@@ -1,5 +1,7 @@
 {
-  "advancements.create_bamboo_island.word_tip": "Tip",
+  "advancements.create_bamboo_island.tip.word": "Tip",
+  "advancements.create_bamboo_island.tip.left_click": "Left Click",
+  "advancements.create_bamboo_island.tip.right_click": "Right Click",
 
   "advancements.andesite_alloy.ice.title": "A new Aggregat",
   "advancements.andesite_alloy.ice.description": "Compact some of your snow to obtain solid water",
@@ -18,8 +20,6 @@
   "advancements.bamboo.bamboo_planks.description.info": "Bamboo Planks can now be crafted in the 2x2 slot in your inventory.",
   "advancements.bamboo.bamboo_planks.description.important": "Important! The following is essential for the rest of the game.",
   "advancements.bamboo.bamboo_planks.description.tip": "Hover over an item and either %s or press %s to display its %s or %s or press %s to display its %s.",
-  "advancements.bamboo.bamboo_planks.description.left_click": "Left Click",
-  "advancements.bamboo.bamboo_planks.description.right_click": "Right Click",
   "advancements.bamboo.bamboo_planks.description.recipes": "recipes",
   "advancements.bamboo.bamboo_planks.description.uses": "uses",
 
@@ -30,10 +30,11 @@
   "advancements.bamboo.cocoa_beans.description": "not really, just harvest some Cocoa Beans from a small Jungle Tree",
 
   "advancements.bamboo.collect_snow.title": "Prepare for a Snowball Fight!",
-  "advancements.bamboo.collect_snow.description": "Collect fresh Snow at least at an altitude of 210, but pay attention to the Phantoms",
+  "advancements.bamboo.collect_snow.description": "Collect fresh Snow at least at an altitude of 210, but pay attention to the Phantoms%sSnow golems leave a trail of snow behind them",
 
   "advancements.bamboo.compost.title": "Back to Nature",
-  "advancements.bamboo.compost.description": "Throw the bark back into a Composter",
+  "advancements.bamboo.compost.description": "Throw the bark back into a Composter%sIf you %s on an item in the left box next to the inventory, the selected item will automatically be %sed and put into your inventory.",
+  "advancements.bamboo.compost.description.craft": "craft",
 
   "advancements.bamboo.cut_coarse_dirt.title": "Pebbles",
   "advancements.bamboo.cut_coarse_dirt.description": "Compress and decompress (cut) dirt",
@@ -218,7 +219,7 @@
   "advancements.water_fishing.slime_ball.description": "Slime Balls are basically just Lime Dough, right?",
 
   "advancements.water_fishing.summon_breeze.title": "A Living Whirlwind",
-  "advancements.water_fishing.summon_breeze.description": "Place Packed Ice on top of a Nozzle attached to an Encased Fan blowing upwards at 256 RPM",
+  "advancements.water_fishing.summon_breeze.description": "Place Packed Ice on top of a Nozzle attached to an Encased Fan blowing upwards at 256 RPM to summon a Breeze",
 
   "advancements.water_fishing.water_bottle.title": "Message in a Bottle",
   "advancements.water_fishing.water_bottle.description": "Fish a deposit bottle filled with Water",

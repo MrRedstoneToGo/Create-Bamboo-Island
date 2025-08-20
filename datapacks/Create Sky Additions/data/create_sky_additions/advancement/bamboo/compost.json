@@ -24,7 +24,24 @@
     "announce_to_chat": false,
     "description": {
       "color": "#87CEFA",
-      "translate": "advancements.bamboo.compost.description"
+      "translate": "advancements.bamboo.compost.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.tip.word", "bold": true, "color": "yellow"},
+          ": "
+        ],
+        [
+          {"text": "STRG (", "bold": true, "color": "red"},
+          {"text": "+ ", "bold": false, "color": "#87CEFA"},
+          {"text": "SHIFT)", "bold": true, "color": "red"},
+          {"text": " + ", "bold": false, "color": "#87CEFA"},
+          {"translate": "advancements.create_bamboo_island.tip.left_click", "bold": true, "color": "red"}
+        ],
+        [
+          {"translate": "advancements.bamboo.compost.description.craft", "bold": true, "color": "blue"}
+        ]
+      ]
     },
     "icon": {
       "id": "minecraft:composter"

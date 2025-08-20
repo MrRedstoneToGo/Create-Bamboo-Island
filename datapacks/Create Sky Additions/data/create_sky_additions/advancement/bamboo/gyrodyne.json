@@ -4,7 +4,7 @@
     "gyrodyne": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "immersive_aircraft:gyrdyne"  
+        "recipe_id": "immersive_aircraft:gyrodyne"  
       }
     }
   },

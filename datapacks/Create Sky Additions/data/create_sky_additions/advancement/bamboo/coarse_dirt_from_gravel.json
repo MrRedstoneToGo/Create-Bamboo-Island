@@ -16,7 +16,7 @@
       "with": [
         [
           "\n\n",
-          {"translate": "advancements.create_bamboo_island.word_tip", "bold": true, "color": "yellow"},
+          {"translate": "advancements.create_bamboo_island.tip.word", "bold": true, "color": "yellow"},
           ": "
         ]
       ]

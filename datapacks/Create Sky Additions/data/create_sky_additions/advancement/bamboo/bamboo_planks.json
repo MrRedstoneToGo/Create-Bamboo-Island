@@ -27,13 +27,13 @@
         "with": [
           [
             "\n- ",
-            {"translate": "advancements.bamboo.bamboo_planks.description.left_click", "bold": true, "color": "red"}
+            {"translate": "advancements.create_bamboo_island.tip.left_click", "bold": true, "color": "red"}
           ],
           {"text": "R", "bold": true, "color": "red"},
           {"translate": "advancements.bamboo.bamboo_planks.description.recipes", "bold": true, "color": "blue"},
           [
             "\n- ",
-            {"translate": "advancements.bamboo.bamboo_planks.description.right_click", "bold": true, "color": "red"}
+            {"translate": "advancements.create_bamboo_island.tip.right_click", "bold": true, "color": "red"}
           ],
           {"text": "U", "bold": true, "color": "red"},
           {"translate": "advancements.bamboo.bamboo_planks.description.uses", "bold": true, "color": "blue"}
