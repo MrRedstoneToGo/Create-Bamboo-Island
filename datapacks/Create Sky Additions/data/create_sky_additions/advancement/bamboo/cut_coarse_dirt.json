@@ -16,12 +16,24 @@
     "announce_to_chat": false,
     "description": {
       "color": "#87CEFA",
-      "translate": "advancements.bamboo.cut_coarse_dirt.description"
+      "translate": "advancements.bamboo.cut_coarse_dirt.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.tip.word", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
     },
+    "uncompleted_icon_color": "#AAAAAA",
+    "completed_icon_color": "#FFFF55",
+    "uncompleted_title_color": "#AAAAAA",
+    "completed_title_color": "#FFFF55",
     "icon": {
       "id": "minecraft:dirt"
     },
     "title": {
+      "color": "#87CEFA",
       "translate": "advancements.bamboo.cut_coarse_dirt.title"
     }
   },

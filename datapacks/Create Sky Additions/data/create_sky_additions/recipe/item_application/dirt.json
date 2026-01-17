@@ -1,0 +1,17 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "farmersdelight:straw_bale"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+    
+  ],
+  "results": [
+    {
+      "id": "minecraft:dirt"
+    }
+  ]
+}

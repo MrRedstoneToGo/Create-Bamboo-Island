@@ -24,20 +24,20 @@
   "advancements.bamboo.bamboo_planks.description.uses": "uses",
 
   "advancements.bamboo.coarse_dirt_from_gravel.title": "Made of Itself",
-  "advancements.bamboo.coarse_dirt_from_gravel.description": "Craft Coarse Dirt with the Gravel you just got from cutting... and with a little hoing and cutting, you'll have duplicated your dirt. Yay!%sFor automation, after washing the coarse dirt, you can simply return the results to the mixing basin via a funnel on the side (!). The profit passes by the funnel and can be further processed behind it.",
+  "advancements.bamboo.coarse_dirt_from_gravel.description": "Use the Gravel you just got from cutting to craft Coarse Dirt again. Repeat this process over and over... and with a little cutting and dirt hoeing, you'll have duplicated it. Yay!%sFor automation, after washing the Coarse Dirt, you can simply return the results to the Dirt mixing basin via a funnel on the side (!). The excess Gravel bypasses the funnel and can be further processed behind it.",
 
-  "advancements.bamboo.cocoa_beans.title": "Buy me a Cocoa",
-  "advancements.bamboo.cocoa_beans.description": "not really, just harvest some Cocoa Beans from a small Jungle Tree",
+  "advancements.bamboo.cocoa_beans.title": "Buy me a Coffee",
+  "advancements.bamboo.cocoa_beans.description": "Not really, just harvest some Cocoa Beans from a small Jungle Tree",
 
   "advancements.bamboo.collect_snow.title": "Prepare for a Snowball Fight!",
-  "advancements.bamboo.collect_snow.description": "Collect fresh Snow at least at an altitude of 210, but pay attention to the Phantoms%sSnow golems leave a trail of snow behind them",
+  "advancements.bamboo.collect_snow.description": "Collect fresh Snow at least at an altitude of 210, but pay attention to the Phantoms, which are the only mobs that spawn in the overworld. %sSnow golems leave a trail of snow behind them",
 
   "advancements.bamboo.compost.title": "Back to Nature",
-  "advancements.bamboo.compost.description": "Throw the bark back into a Composter%sIf you %s on an item in the left box next to the inventory, the selected item will automatically be %sed and put into your inventory.",
+  "advancements.bamboo.compost.description": "Throw the Straw back into a Composter%sIf you %s on an item in the left box next to the inventory, the selected item will automatically be %sed and put into your inventory.",
   "advancements.bamboo.compost.description.craft": "craft",
 
   "advancements.bamboo.cut_coarse_dirt.title": "Pebbles",
-  "advancements.bamboo.cut_coarse_dirt.description": "Compress and decompress (cut) dirt",
+  "advancements.bamboo.cut_coarse_dirt.description": "Apply some Bone Meal to a Straw Bale, compress (craft) and decompress (cut) that%sSince you'll need a lot of Bamboo, you can sneak while standing on a Bamboo stem. Then it will regrow by itself.",
 
   "advancements.bamboo.fern.title": "Chlorophyl",
   "advancements.bamboo.fern.description": "Cut some Ferns from the grass because they contain a lot of Green Dye, as you'll notice later",
@@ -46,10 +46,10 @@
   "advancements.bamboo.flower.description": "Take a flower for your beloved... or something like that.",
 
   "advancements.bamboo.grow_azalea.title": "Is there a Lush Cave anywhere?",
-  "advancements.bamboo.grow_azalea.description": "Grow a Mangrove Tree, compact its moss and grow an Azalea on it",
+  "advancements.bamboo.grow_azalea.description": "Just as a side quest, grow a Mangrove Tree, compact its moss and grow an Azalea on it",
 
   "advancements.bamboo.grow_cherry_tree.title": "Buzzy Trees",
-  "advancements.bamboo.grow_cherry_tree.description": "Bees love to move into it, so you might find a Bee Nest",
+  "advancements.bamboo.grow_cherry_tree.description": "Bees love to move into a Cherry Trees, so you might find a Bee Nest there",
 
   "advancements.bamboo.gyrodyne.title": "Manual Aircraft",
   "advancements.bamboo.gyrodyne.description": "Build a Gyrodyne and fly away with it",
@@ -156,7 +156,7 @@
   "advancements.lava.tuff.description": "This Tuff underwent a tough process",
 
   "advancements.lava.veridium.title": "Green Tuff",
-  "advancements.lava.veridium.description": "Haunt Tuff to increase the zinc concentration in it",
+  "advancements.lava.veridium.description": "Haunt Tuff to increase the copper concentration in it",
 
   "advancements.lava.zinc.title": "Zincum Adaptabile",
   "advancements.lava.zinc.description": "Produce some Zinc Ingots for Copycats or to create Brass",
@@ -219,7 +219,7 @@
   "advancements.water_fishing.slime_ball.description": "Slime Balls are basically just Lime Dough, right?",
 
   "advancements.water_fishing.summon_breeze.title": "A Living Whirlwind",
-  "advancements.water_fishing.summon_breeze.description": "Place Packed Ice on top of a Nozzle attached to an Encased Fan blowing upwards at 256 RPM to summon a Breeze",
+  "advancements.water_fishing.summon_breeze.description": "Place Packed Ice on top of a Nozzle attached to an Encased Fan blowing upwards at 256 RPM to summon a Breeze%sThis can only be done manually. However, there is a crafting recipe for the Breeze Spawn Egg for automation.",
 
   "advancements.water_fishing.water_bottle.title": "Message in a Bottle",
   "advancements.water_fishing.water_bottle.description": "Fish a deposit bottle filled with Water",

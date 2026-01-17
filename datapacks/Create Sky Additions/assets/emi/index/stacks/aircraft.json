@@ -1,6 +1,8 @@
 {
   "removed": [
     "item:immersive_aircraft:warship",
-    "item:immersive_aircraft:bamboo_hopper"
+    "item:immersive_aircraft:bamboo_hopper",
+    "item:immersive_aircraft:gyroscope_hud",
+    "item:immersive_aircraft:gyroscope_dials"
   ]
 }

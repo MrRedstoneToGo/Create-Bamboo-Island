@@ -43,7 +43,14 @@
     "announce_to_chat": false,
     "description": {
       "color": "#87CEFA",
-      "translate": "advancements.water_fishing.summon_breeze.description"
+      "translate": "advancements.water_fishing.summon_breeze.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_island.tip.word", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
     },
     "frame": "goal",
     "icon": {
